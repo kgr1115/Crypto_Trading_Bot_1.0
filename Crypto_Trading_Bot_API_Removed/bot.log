@@ -1,0 +1,838 @@
+2026-03-05 00:16:57,131 | INFO     | bot | Bot initialised | pairs=['BTC/USD', 'ETH/USD'] | strategies=['scalping', 'breakout', 'range_trading', 'ma_trend'] | dry_run=False
+2026-03-05 00:17:00,224 | INFO     | bot | Bot started. Poll interval: 60s
+2026-03-05 00:17:05,234 | INFO     | bot | Signal | BUY | BTC/USD | range_trading | entry=72796.6000 SL=72479.7772 TP=72990.0833
+2026-03-05 00:17:08,200 | INFO     | risk.risk_manager | Position size capped at 0.000000 BTC/USD (would have exceeded balance)
+2026-03-05 00:17:08,201 | WARNING  | bot | Skipping trade — size 0.00000007 below minimum 0.00005000 for BTC/USD
+2026-03-05 00:17:10,582 | INFO     | bot | Signal | BUY | BTC/USD | ma_trend | entry=72777.7000 SL=72226.2580 TP=73880.5840
+2026-03-05 00:17:13,628 | INFO     | risk.risk_manager | Position size capped at 0.000000 BTC/USD (would have exceeded balance)
+2026-03-05 00:17:13,629 | WARNING  | bot | Skipping trade — size 0.00000007 below minimum 0.00005000 for BTC/USD
+2026-03-05 00:17:14,785 | INFO     | bot | Signal | BUY | ETH/USD | ma_trend | entry=2136.2200 SL=2104.2930 TP=2200.0740
+2026-03-05 00:17:17,815 | INFO     | risk.risk_manager | Position size capped at 0.000003 ETH/USD (would have exceeded balance)
+2026-03-05 00:17:17,817 | WARNING  | bot | Skipping trade — size 0.00000271 below minimum 0.00100000 for ETH/USD
+2026-03-05 00:19:19,671 | INFO     | bot | Bot initialised | pairs=['BTC/USD', 'ETH/USD'] | strategies=['scalping', 'breakout', 'range_trading', 'ma_trend'] | dry_run=False
+2026-03-05 00:19:20,748 | INFO     | bot | Bot started. Poll interval: 60s
+2026-03-05 00:19:25,755 | INFO     | bot | Signal | BUY | BTC/USD | range_trading | entry=72729.3000 SL=72479.7772 TP=72990.0833
+2026-03-05 00:19:28,785 | INFO     | risk.risk_manager | Position size capped at 0.000000 BTC/USD (would have exceeded balance)
+2026-03-05 00:19:28,786 | WARNING  | bot | Skipping trade — size 0.00000007 below minimum 0.00005000 for BTC/USD
+2026-03-05 00:19:31,155 | INFO     | bot | Signal | BUY | BTC/USD | ma_trend | entry=72717.9000 SL=72226.2580 TP=73701.1840
+2026-03-05 00:19:34,109 | INFO     | risk.risk_manager | Position size capped at 0.000000 BTC/USD (would have exceeded balance)
+2026-03-05 00:19:34,110 | WARNING  | bot | Skipping trade — size 0.00000007 below minimum 0.00005000 for BTC/USD
+2026-03-05 00:19:35,348 | INFO     | bot | Signal | BUY | ETH/USD | ma_trend | entry=2132.6900 SL=2104.2930 TP=2189.4840
+2026-03-05 00:19:38,410 | INFO     | risk.risk_manager | Position size capped at 0.000003 ETH/USD (would have exceeded balance)
+2026-03-05 00:19:38,411 | WARNING  | bot | Skipping trade — size 0.00000271 below minimum 0.00100000 for ETH/USD
+2026-03-05 00:20:44,603 | INFO     | bot | Signal | BUY | ETH/USD | range_trading | entry=2129.3500 SL=2119.7287 TP=2134.8133
+2026-03-05 00:20:47,558 | INFO     | risk.risk_manager | Position size capped at 0.000003 ETH/USD (would have exceeded balance)
+2026-03-05 00:20:47,559 | WARNING  | bot | Skipping trade — size 0.00000272 below minimum 0.00100000 for ETH/USD
+2026-03-05 00:22:40,977 | INFO     | bot | Bot initialised | pairs=['BTC/USD', 'ETH/USD'] | strategies=['scalping', 'breakout', 'range_trading', 'ma_trend'] | dry_run=False
+2026-03-05 00:22:41,926 | INFO     | bot | Bot started. Poll interval: 60s
+2026-03-05 00:22:48,147 | INFO     | bot | Signal | BUY | ETH/USD | range_trading | entry=2128.7300 SL=2119.7287 TP=2134.8133
+2026-03-05 00:22:51,122 | INFO     | risk.risk_manager | Position size capped at 0.000003 ETH/USD (would have exceeded balance)
+2026-03-05 00:22:51,123 | WARNING  | bot | Skipping trade — size 0.00000272 below minimum 0.00100000 for ETH/USD
+2026-03-05 00:22:52,340 | INFO     | bot | Signal | BUY | BTC/USD | ma_trend | entry=72589.5000 SL=72226.2580 TP=73315.9840
+2026-03-05 00:22:55,436 | INFO     | risk.risk_manager | Position size capped at 0.000000 BTC/USD (would have exceeded balance)
+2026-03-05 00:22:55,437 | WARNING  | bot | Skipping trade — size 0.00000007 below minimum 0.00005000 for BTC/USD
+2026-03-05 00:22:56,559 | INFO     | bot | Signal | BUY | ETH/USD | ma_trend | entry=2127.5100 SL=2104.2930 TP=2173.9440
+2026-03-05 00:22:59,630 | INFO     | risk.risk_manager | Position size capped at 0.000003 ETH/USD (would have exceeded balance)
+2026-03-05 00:22:59,631 | WARNING  | bot | Skipping trade — size 0.00000272 below minimum 0.00100000 for ETH/USD
+2026-03-05 00:24:01,020 | INFO     | bot | Signal | BUY | ETH/USD | scalping | entry=2128.0400 SL=2117.3998 TP=2134.6590
+2026-03-05 00:24:03,989 | INFO     | risk.risk_manager | Position size capped at 0.000003 ETH/USD (would have exceeded balance)
+2026-03-05 00:24:03,990 | WARNING  | bot | Skipping trade — size 0.00000272 below minimum 0.00100000 for ETH/USD
+2026-03-05 00:25:24,203 | INFO     | bot | Bot initialised | pairs=['BTC/USDT', 'ETH/USDT'] | strategies=['scalping', 'breakout', 'range_trading', 'ma_trend'] | dry_run=False
+2026-03-05 00:25:25,139 | INFO     | bot | Bot started. Poll interval: 60s
+2026-03-05 00:25:26,526 | INFO     | bot | Signal | BUY | ETH/USDT | scalping | entry=2118.2800 SL=2107.6886 TP=2133.4110
+2026-03-05 00:25:29,648 | INFO     | risk.risk_manager | Position size capped at 0.298839 ETH/USDT (would have exceeded balance)
+2026-03-05 00:25:29,779 | ERROR    | exchange.kraken_client | Failed to place market buy for ETH/USDT: kraken {"error":["EOrder:Insufficient funds"]}
+2026-03-05 00:25:29,780 | ERROR    | bot | Entry order failed for ETH/USDT
+2026-03-05 00:25:33,550 | INFO     | bot | Signal | BUY | BTC/USDT | range_trading | entry=72483.3000 SL=72322.9072 TP=72950.0200
+2026-03-05 00:25:36,486 | INFO     | risk.risk_manager | Position size capped at 0.008733 BTC/USDT (would have exceeded balance)
+2026-03-05 00:25:36,621 | ERROR    | exchange.kraken_client | Failed to place market buy for BTC/USDT: kraken {"error":["EOrder:Insufficient funds"]}
+2026-03-05 00:25:36,621 | ERROR    | bot | Entry order failed for BTC/USDT
+2026-03-05 00:25:37,745 | INFO     | bot | Signal | BUY | ETH/USDT | range_trading | entry=2118.2800 SL=2112.2271 TP=2137.1167
+2026-03-05 00:25:40,836 | INFO     | risk.risk_manager | Position size capped at 0.298839 ETH/USDT (would have exceeded balance)
+2026-03-05 00:25:40,977 | ERROR    | exchange.kraken_client | Failed to place market buy for ETH/USDT: kraken {"error":["EOrder:Insufficient funds"]}
+2026-03-05 00:25:40,978 | ERROR    | bot | Entry order failed for ETH/USDT
+2026-03-05 00:25:42,189 | INFO     | bot | Signal | BUY | BTC/USDT | ma_trend | entry=72483.3000 SL=72209.0924 TP=73031.7152
+2026-03-05 00:25:45,288 | INFO     | risk.risk_manager | Position size capped at 0.008733 BTC/USDT (would have exceeded balance)
+2026-03-05 00:25:45,429 | ERROR    | exchange.kraken_client | Failed to place market buy for BTC/USDT: kraken {"error":["EOrder:Insufficient funds"]}
+2026-03-05 00:25:45,430 | ERROR    | bot | Entry order failed for BTC/USDT
+2026-03-05 00:25:46,786 | INFO     | bot | Signal | BUY | ETH/USDT | ma_trend | entry=2118.2800 SL=2104.3628 TP=2146.1143
+2026-03-05 00:25:49,712 | INFO     | risk.risk_manager | Position size capped at 0.298839 ETH/USDT (would have exceeded balance)
+2026-03-05 00:25:49,916 | ERROR    | exchange.kraken_client | Failed to place market buy for ETH/USDT: kraken {"error":["EOrder:Insufficient funds"]}
+2026-03-05 00:25:49,916 | ERROR    | bot | Entry order failed for ETH/USDT
+2026-03-05 00:26:51,187 | INFO     | bot | Signal | BUY | ETH/USDT | scalping | entry=2119.0700 SL=2108.4747 TP=2132.6275
+2026-03-05 00:26:54,281 | INFO     | risk.risk_manager | Position size capped at 0.298727 ETH/USDT (would have exceeded balance)
+2026-03-05 00:26:54,429 | ERROR    | exchange.kraken_client | Failed to place market buy for ETH/USDT: kraken {"error":["EOrder:Insufficient funds"]}
+2026-03-05 00:26:54,430 | ERROR    | bot | Entry order failed for ETH/USDT
+2026-03-05 00:28:21,675 | INFO     | bot | Bot initialised | pairs=['BTC/USDT', 'ETH/USDT'] | strategies=['scalping', 'breakout', 'range_trading', 'ma_trend'] | dry_run=False
+2026-03-05 00:28:22,758 | INFO     | bot | Bot started. Poll interval: 60s
+2026-03-05 00:28:25,323 | INFO     | bot | Signal | BUY | BTC/USDT | range_trading | entry=72476.4000 SL=72322.9072 TP=72950.0200
+2026-03-05 00:28:28,336 | INFO     | risk.risk_manager | Position size capped at 0.008647 BTC/USDT (would have exceeded balance)
+2026-03-05 00:28:28,540 | INFO     | exchange.kraken_client | Market BUY placed | BTC/USDT | amount=0.008647 | id=OBJ3DF-FX3H2-4NQUCL
+2026-03-05 00:28:28,739 | INFO     | exchange.kraken_client | Stop-loss placed | SELL BTC/USDT | amount=0.008647 | trigger=72322.9000 | id=ONIVSD-35W2Y-ILC7CQ
+2026-03-05 00:28:28,944 | ERROR    | exchange.kraken_client | Failed to place limit sell for BTC/USDT: kraken {"error":["EOrder:Insufficient funds"]}
+2026-03-05 00:28:28,945 | INFO     | risk.risk_manager | Position opened | BTC/USDT | entry=72476.4000 | size=0.008647 | SL=72322.9000 | TP=72950.0000
+2026-03-05 00:28:32,544 | INFO     | bot | Signal | BUY | ETH/USDT | range_trading | entry=2117.5800 SL=2112.2271 TP=2137.1167
+2026-03-05 00:28:35,518 | INFO     | risk.risk_manager | Position size capped at 0.001731 ETH/USDT (would have exceeded balance)
+2026-03-05 00:28:35,708 | INFO     | exchange.kraken_client | Market BUY placed | ETH/USDT | amount=0.001731 | id=O4OT52-UKBQT-ZPMFYS
+2026-03-05 00:28:35,856 | INFO     | exchange.kraken_client | Stop-loss placed | SELL ETH/USDT | amount=0.001731 | trigger=2112.2300 | id=OQEDWR-34IDB-EAZT6Y
+2026-03-05 00:28:36,011 | ERROR    | exchange.kraken_client | Failed to place limit sell for ETH/USDT: kraken {"error":["EOrder:Insufficient funds"]}
+2026-03-05 00:28:36,011 | INFO     | risk.risk_manager | Position opened | ETH/USDT | entry=2117.5800 | size=0.001731 | SL=2112.2300 | TP=2137.1200
+2026-03-05 00:29:38,070 | INFO     | risk.risk_manager | Max open positions (2) reached.
+2026-03-05 00:30:04,280 | INFO     | bot | Bot initialised | pairs=['BTC/USDT', 'ETH/USDT'] | strategies=['scalping', 'breakout', 'range_trading', 'ma_trend'] | dry_run=False
+2026-03-05 00:30:05,262 | INFO     | bot | Bot started. Poll interval: 60s
+2026-03-05 00:30:07,859 | INFO     | bot | Signal | BUY | BTC/USDT | range_trading | entry=72476.0000 SL=72323.2386 TP=72950.0200
+2026-03-05 00:30:10,836 | INFO     | risk.risk_manager | Position size capped at 0.000000 BTC/USDT (would have exceeded balance)
+2026-03-05 00:30:10,838 | WARNING  | bot | Skipping trade — size 0.00000026 below minimum 0.00005000 for BTC/USDT
+2026-03-05 00:30:12,056 | INFO     | bot | Signal | BUY | BTC/USDT | ma_trend | entry=72476.0000 SL=72209.0924 TP=73009.8152
+2026-03-05 00:30:15,068 | INFO     | risk.risk_manager | Position size capped at 0.000000 BTC/USDT (would have exceeded balance)
+2026-03-05 00:30:15,069 | WARNING  | bot | Skipping trade — size 0.00000026 below minimum 0.00005000 for BTC/USDT
+2026-03-05 00:30:19,905 | INFO     | bot | Signal | BUY | ETH/USDT | ma_trend | entry=2119.3800 SL=2104.3628 TP=2149.4143
+2026-03-05 00:30:22,842 | INFO     | risk.risk_manager | Position size capped at 0.000009 ETH/USDT (would have exceeded balance)
+2026-03-05 00:30:22,842 | WARNING  | bot | Skipping trade — size 0.00000898 below minimum 0.00100000 for ETH/USDT
+2026-03-05 00:33:45,260 | INFO     | bot | Bot initialised | pairs=['BTC/USDT', 'ETH/USDT'] | strategies=['scalping', 'breakout', 'range_trading', 'ma_trend'] | dry_run=False
+2026-03-05 00:33:46,356 | INFO     | bot | Bot started. Poll interval: 60s
+2026-03-05 00:33:48,967 | INFO     | bot | Signal | BUY | BTC/USDT | range_trading | entry=72505.0000 SL=72322.9072 TP=72950.0200
+2026-03-05 00:33:52,052 | INFO     | risk.risk_manager | Position size capped at 0.000000 BTC/USDT (MAX_POSITION_PCT=20%)
+2026-03-05 00:33:52,054 | WARNING  | bot | Skipping trade — size 0.00000005 below minimum 0.00005000 for BTC/USDT
+2026-03-05 00:33:53,112 | INFO     | bot | Signal | BUY | BTC/USDT | ma_trend | entry=72505.0000 SL=72209.0924 TP=73096.8152
+2026-03-05 00:33:56,100 | INFO     | risk.risk_manager | Position size capped at 0.000000 BTC/USDT (MAX_POSITION_PCT=20%)
+2026-03-05 00:33:56,101 | WARNING  | bot | Skipping trade — size 0.00000005 below minimum 0.00005000 for BTC/USDT
+2026-03-05 00:33:59,809 | INFO     | bot | Signal | BUY | ETH/USDT | range_trading | entry=2122.3000 SL=2116.8428 TP=2137.1167
+2026-03-05 00:34:02,699 | INFO     | risk.risk_manager | Position size capped at 0.000002 ETH/USDT (MAX_POSITION_PCT=20%)
+2026-03-05 00:34:02,700 | WARNING  | bot | Skipping trade — size 0.00000179 below minimum 0.00100000 for ETH/USDT
+2026-03-05 00:34:04,020 | INFO     | bot | Signal | BUY | ETH/USDT | ma_trend | entry=2122.3000 SL=2104.3628 TP=2158.1743
+2026-03-05 00:34:06,895 | INFO     | risk.risk_manager | Position size capped at 0.000002 ETH/USDT (MAX_POSITION_PCT=20%)
+2026-03-05 00:34:06,896 | WARNING  | bot | Skipping trade — size 0.00000179 below minimum 0.00100000 for ETH/USDT
+2026-03-05 00:38:52,307 | INFO     | bot | Bot initialised | pairs=['BTC/USDT', 'ETH/USDT'] | strategies=['scalping', 'breakout', 'range_trading', 'ma_trend'] | dry_run=False
+2026-03-05 00:38:53,804 | INFO     | bot | Bot started. Poll interval: 60s
+2026-03-05 00:38:56,367 | INFO     | bot | Signal | BUY | BTC/USDT | range_trading | entry=72480.4000 SL=72322.9072 TP=72950.0200
+2026-03-05 00:38:59,344 | INFO     | risk.risk_manager | Position size capped at 0.000000 BTC/USDT (MAX_POSITION_PCT=20%)
+2026-03-05 00:38:59,346 | WARNING  | bot | Skipping trade — size 0.00000005 below minimum 0.00005000 for BTC/USDT
+2026-03-05 00:39:00,568 | INFO     | bot | Signal | BUY | BTC/USDT | ma_trend | entry=72471.4000 SL=72209.0924 TP=72996.0152
+2026-03-05 00:39:03,622 | INFO     | risk.risk_manager | Position size capped at 0.000000 BTC/USDT (MAX_POSITION_PCT=20%)
+2026-03-05 00:39:03,623 | WARNING  | bot | Skipping trade — size 0.00000005 below minimum 0.00005000 for BTC/USDT
+2026-03-05 00:39:07,256 | INFO     | bot | Signal | BUY | ETH/USDT | range_trading | entry=2116.6200 SL=2112.2271 TP=2137.1167
+2026-03-05 00:39:10,157 | INFO     | risk.risk_manager | Position size capped at 0.000002 ETH/USDT (MAX_POSITION_PCT=20%)
+2026-03-05 00:39:10,158 | WARNING  | bot | Skipping trade — size 0.00000179 below minimum 0.00100000 for ETH/USDT
+2026-03-05 00:39:11,421 | INFO     | bot | Signal | BUY | ETH/USDT | ma_trend | entry=2116.6200 SL=2104.3628 TP=2141.1343
+2026-03-05 00:39:14,362 | INFO     | risk.risk_manager | Position size capped at 0.000002 ETH/USDT (MAX_POSITION_PCT=20%)
+2026-03-05 00:39:14,362 | WARNING  | bot | Skipping trade — size 0.00000179 below minimum 0.00100000 for ETH/USDT
+2026-03-05 00:46:00,809 | INFO     | bot | Signal | BUY | BTC/USDT | ma_trend | entry=72407.3000 SL=72209.0924 TP=72803.7152
+2026-03-05 00:46:03,898 | INFO     | risk.risk_manager | Position size capped at 0.000000 BTC/USDT (MAX_POSITION_PCT=20%)
+2026-03-05 00:46:03,899 | WARNING  | bot | Skipping trade — size 0.00000005 below minimum 0.00005000 for BTC/USDT
+2026-03-05 00:46:07,428 | INFO     | bot | Signal | BUY | ETH/USDT | range_trading | entry=2116.1700 SL=2108.7221 TP=2137.1167
+2026-03-05 00:46:10,514 | INFO     | risk.risk_manager | Position size capped at 0.000002 ETH/USDT (MAX_POSITION_PCT=20%)
+2026-03-05 00:46:10,515 | WARNING  | bot | Skipping trade — size 0.00000180 below minimum 0.00100000 for ETH/USDT
+2026-03-05 00:47:04,072 | INFO     | bot | Bot initialised | pairs=['BTC/USDT', 'ETH/USDT'] | strategies=['scalping', 'breakout', 'range_trading', 'ma_trend'] | dry_run=False
+2026-03-05 00:47:05,712 | INFO     | bot | Bot started. Poll interval: 60s
+2026-03-05 00:47:09,519 | INFO     | bot | Signal | BUY | BTC/USDT | ma_trend | entry=72407.3000 SL=72209.0924 TP=72803.7152
+2026-03-05 00:47:12,452 | INFO     | risk.risk_manager | Position size capped at 0.000000 BTC/USDT (MAX_POSITION_PCT=20%)
+2026-03-05 00:47:12,453 | WARNING  | bot | Skipping trade — size 0.00000005 below minimum 0.00005000 for BTC/USDT
+2026-03-05 00:47:16,130 | INFO     | bot | Signal | BUY | ETH/USDT | range_trading | entry=2117.0400 SL=2108.7221 TP=2137.1167
+2026-03-05 00:47:19,066 | INFO     | risk.risk_manager | Position size capped at 0.000002 ETH/USDT (MAX_POSITION_PCT=20%)
+2026-03-05 00:47:19,067 | WARNING  | bot | Skipping trade — size 0.00000179 below minimum 0.00100000 for ETH/USDT
+2026-03-05 00:49:46,398 | INFO     | bot | Bot initialised | pairs=['BTC/USDT', 'ETH/USDT'] | strategies=['scalping', 'breakout', 'range_trading', 'ma_trend'] | dry_run=False
+2026-03-05 00:49:47,830 | INFO     | bot | Bot started. Poll interval: 60s
+2026-03-05 00:49:51,697 | INFO     | bot | Signal | BUY | BTC/USDT | ma_trend | entry=72445.2000 SL=72209.0924 TP=72917.4152
+2026-03-05 00:49:54,583 | INFO     | risk.risk_manager | Position size capped at 0.001707 BTC/USDT (MAX_POSITION_PCT=20%)
+2026-03-05 00:49:54,788 | ERROR    | exchange.kraken_client | Failed to place market buy for BTC/USDT: kraken {"error":["EOrder:Insufficient funds"]}
+2026-03-05 00:49:54,788 | ERROR    | bot | Entry order failed for BTC/USDT
+2026-03-05 00:49:58,397 | INFO     | bot | Signal | BUY | ETH/USDT | range_trading | entry=2117.0400 SL=2108.7221 TP=2137.1167
+2026-03-05 00:50:01,343 | INFO     | risk.risk_manager | Position size capped at 0.058426 ETH/USDT (MAX_POSITION_PCT=20%)
+2026-03-05 00:50:01,547 | ERROR    | exchange.kraken_client | Failed to place market buy for ETH/USDT: kraken {"error":["EOrder:Insufficient funds"]}
+2026-03-05 00:50:01,548 | ERROR    | bot | Entry order failed for ETH/USDT
+2026-03-05 00:51:32,336 | INFO     | bot | Bot initialised | pairs=['BTC/USD', 'ETH/USD'] | strategies=['scalping', 'breakout', 'range_trading', 'ma_trend'] | dry_run=False
+2026-03-05 00:51:33,553 | INFO     | bot | Bot started. Poll interval: 60s
+2026-03-05 00:51:37,212 | INFO     | bot | Signal | BUY | BTC/USD | ma_trend | entry=72397.9000 SL=72226.2580 TP=72741.1840
+2026-03-05 00:51:40,365 | INFO     | risk.risk_manager | Position size capped at 0.001708 BTC/USD (MAX_POSITION_PCT=20%)
+2026-03-05 00:51:40,568 | INFO     | exchange.kraken_client | Market BUY placed | BTC/USD | amount=0.001708 | id=ORHSI6-IELGN-DUNK34
+2026-03-05 00:51:42,824 | INFO     | exchange.kraken_client | Stop-loss placed | SELL BTC/USD | amount=0.001708 | trigger=72226.3000 | id=OXTUX4-6SNX6-EZ2Z7O
+2026-03-05 00:51:43,057 | ERROR    | exchange.kraken_client | Failed to place limit sell for BTC/USD: kraken {"error":["EOrder:Insufficient funds"]}
+2026-03-05 00:51:43,058 | INFO     | risk.risk_manager | Position opened | BTC/USD | entry=72397.9000 | size=0.001708 | SL=72226.3000 | TP=72741.2000
+2026-03-05 00:52:51,539 | INFO     | bot | Signal | BUY | ETH/USD | range_trading | entry=2118.8000 SL=2113.7328 TP=2134.8133
+2026-03-05 00:52:54,612 | INFO     | risk.risk_manager | Position size capped at 0.046769 ETH/USD (MAX_POSITION_PCT=20%)
+2026-03-05 00:52:54,756 | INFO     | exchange.kraken_client | Market BUY placed | ETH/USD | amount=0.046769 | id=ONYI73-ZVBVN-ABI5MJ
+2026-03-05 00:52:56,980 | INFO     | exchange.kraken_client | Stop-loss placed | SELL ETH/USD | amount=0.046769 | trigger=2113.7300 | id=OPYTPG-FHJ3Y-Q45D6M
+2026-03-05 00:52:57,124 | ERROR    | exchange.kraken_client | Failed to place limit sell for ETH/USD: kraken {"error":["EOrder:Insufficient funds"]}
+2026-03-05 00:52:57,125 | INFO     | risk.risk_manager | Position opened | ETH/USD | entry=2118.8000 | size=0.046769 | SL=2113.7300 | TP=2134.8100
+2026-03-05 00:53:59,563 | INFO     | risk.risk_manager | Max open positions (2) reached.
+2026-03-05 00:55:00,632 | INFO     | risk.risk_manager | Max open positions (2) reached.
+2026-03-05 00:55:59,234 | INFO     | bot | Bot initialised | pairs=['BTC/USD', 'ETH/USD', 'SOL/USD'] | strategies=['scalping', 'breakout', 'range_trading', 'ma_trend'] | dry_run=False
+2026-03-05 00:56:00,321 | INFO     | bot | Bot started. Poll interval: 60s
+2026-03-05 00:56:04,169 | INFO     | bot | Signal | BUY | BTC/USD | ma_trend | entry=72438.2000 SL=72226.2580 TP=72862.0840
+2026-03-05 00:56:07,219 | INFO     | risk.risk_manager | Position size capped at 0.000822 BTC/USD (MAX_POSITION_PCT=15%)
+2026-03-05 00:56:07,355 | INFO     | exchange.kraken_client | Market BUY placed | BTC/USD | amount=0.000822 | id=OCDOZA-CD7G3-JSJ2TK
+2026-03-05 00:56:09,577 | INFO     | exchange.kraken_client | Stop-loss placed | SELL BTC/USD | amount=0.000822 | trigger=72226.3000 | id=OUSA2V-CKG4H-3LR24R
+2026-03-05 00:56:09,782 | ERROR    | exchange.kraken_client | Failed to place limit sell for BTC/USD: kraken {"error":["EOrder:Insufficient funds"]}
+2026-03-05 00:56:09,783 | INFO     | risk.risk_manager | Position opened | BTC/USD | entry=72438.2000 | size=0.000822 | SL=72226.3000 | TP=72862.1000
+2026-03-05 00:56:13,521 | INFO     | bot | Signal | BUY | ETH/USD | range_trading | entry=2120.2200 SL=2113.7328 TP=2134.8133
+2026-03-05 00:56:16,761 | INFO     | risk.risk_manager | Position size capped at 0.023896 ETH/USD (MAX_POSITION_PCT=15%)
+2026-03-05 00:56:16,969 | INFO     | exchange.kraken_client | Market BUY placed | ETH/USD | amount=0.023896 | id=OPBLRJ-LM5J3-RMOWIS
+2026-03-05 00:56:19,179 | INFO     | exchange.kraken_client | Stop-loss placed | SELL ETH/USD | amount=0.023896 | trigger=2113.7300 | id=OYNJ3A-KHEYP-FOAA2Z
+2026-03-05 00:56:19,398 | ERROR    | exchange.kraken_client | Failed to place limit sell for ETH/USD: kraken {"error":["EOrder:Insufficient funds"]}
+2026-03-05 00:56:19,398 | INFO     | risk.risk_manager | Position opened | ETH/USD | entry=2120.2200 | size=0.023896 | SL=2113.7300 | TP=2134.8100
+2026-03-05 00:56:23,517 | INFO     | bot | Signal | BUY | SOL/USD | range_trading | entry=90.1800 SL=89.7626 TP=90.6500
+2026-03-05 00:56:26,369 | INFO     | risk.risk_manager | Position size capped at 0.478064 SOL/USD (MAX_POSITION_PCT=15%)
+2026-03-05 00:56:26,517 | INFO     | exchange.kraken_client | Market BUY placed | SOL/USD | amount=0.478064 | id=OUX6BT-5KCPT-ZIW3PJ
+2026-03-05 00:56:28,660 | INFO     | exchange.kraken_client | Stop-loss placed | SELL SOL/USD | amount=0.478064 | trigger=89.7600 | id=OUA5ZO-Q6MJ6-7S5YYQ
+2026-03-05 00:56:28,807 | ERROR    | exchange.kraken_client | Failed to place limit sell for SOL/USD: kraken {"error":["EOrder:Insufficient funds"]}
+2026-03-05 00:56:28,807 | INFO     | risk.risk_manager | Position opened | SOL/USD | entry=90.1800 | size=0.478064 | SL=89.7600 | TP=90.6500
+2026-03-05 00:57:32,198 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 00:58:34,241 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 00:59:36,349 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 01:00:38,395 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 01:01:40,458 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 01:02:42,787 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 01:03:44,889 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 01:04:47,321 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 01:05:49,792 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 01:06:52,040 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 01:07:54,400 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 01:08:56,544 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 01:09:56,586 | INFO     | bot | STOP-LOSS hit for BTC/USD at 72226.3000
+2026-03-05 01:09:56,588 | INFO     | risk.risk_manager | Position closed | BTC/USD | exit=72226.3000 | PnL=-0.17 USD | Net=-0.48 USD
+2026-03-05 01:09:58,316 | INFO     | bot | STOP-LOSS hit for ETH/USD at 2113.7300
+2026-03-05 01:09:58,316 | INFO     | risk.risk_manager | Position closed | ETH/USD | exit=2113.7300 | PnL=-0.16 USD | Net=-0.42 USD
+2026-03-05 01:10:04,834 | INFO     | bot | Signal | BUY | BTC/USD | ma_trend | entry=72123.5000 SL=71974.5624 TP=72421.3752
+2026-03-05 01:10:07,967 | INFO     | risk.risk_manager | Position size capped at 0.001197 BTC/USD (MAX_POSITION_PCT=15%)
+2026-03-05 01:10:08,132 | INFO     | exchange.kraken_client | Market BUY placed | BTC/USD | amount=0.001197 | id=OUKHN5-MKD7T-ECE3JH
+2026-03-05 01:10:10,286 | INFO     | exchange.kraken_client | Stop-loss placed | SELL BTC/USD | amount=0.001197 | trigger=71974.6000 | id=OR7ITP-TY5RI-H5JDNQ
+2026-03-05 01:10:10,422 | ERROR    | exchange.kraken_client | Failed to place limit sell for BTC/USD: kraken {"error":["EOrder:Insufficient funds"]}
+2026-03-05 01:10:10,423 | INFO     | risk.risk_manager | Position opened | BTC/USD | entry=72123.5000 | size=0.001197 | SL=71974.6000 | TP=72421.4000
+2026-03-05 01:10:15,561 | INFO     | bot | Signal | BUY | ETH/USD | ma_trend | entry=2112.8400 SL=2104.2930 TP=2129.9340
+2026-03-05 01:10:18,646 | INFO     | risk.risk_manager | Position size capped at 0.034773 ETH/USD (MAX_POSITION_PCT=15%)
+2026-03-05 01:10:18,796 | INFO     | exchange.kraken_client | Market BUY placed | ETH/USD | amount=0.034773 | id=O2DZCB-IZ7BD-SFW57N
+2026-03-05 01:10:20,945 | INFO     | exchange.kraken_client | Stop-loss placed | SELL ETH/USD | amount=0.034773 | trigger=2104.2900 | id=OE3PXA-NG7HF-6Q524V
+2026-03-05 01:10:21,082 | ERROR    | exchange.kraken_client | Failed to place limit sell for ETH/USD: kraken {"error":["EOrder:Insufficient funds"]}
+2026-03-05 01:10:21,082 | INFO     | risk.risk_manager | Position opened | ETH/USD | entry=2112.8400 | size=0.034773 | SL=2104.2900 | TP=2129.9300
+2026-03-05 01:11:22,573 | INFO     | bot | STOP-LOSS hit for SOL/USD at 89.7600
+2026-03-05 01:11:22,574 | INFO     | risk.risk_manager | Position closed | SOL/USD | exit=89.7600 | PnL=-0.20 USD | Net=-0.42 USD
+2026-03-05 01:11:28,901 | INFO     | bot | Signal | BUY | SOL/USD | range_trading | entry=89.7400 SL=89.5306 TP=90.6500
+2026-03-05 01:11:31,798 | INFO     | risk.risk_manager | Position size capped at 0.767338 SOL/USD (MAX_POSITION_PCT=15%)
+2026-03-05 01:11:31,947 | INFO     | exchange.kraken_client | Market BUY placed | SOL/USD | amount=0.767338 | id=OH6ZEI-OYO27-2YJFJM
+2026-03-05 01:11:34,150 | INFO     | exchange.kraken_client | Stop-loss placed | SELL SOL/USD | amount=0.767338 | trigger=89.5300 | id=OBV55A-XKLTX-OMDFG5
+2026-03-05 01:11:34,297 | ERROR    | exchange.kraken_client | Failed to place limit sell for SOL/USD: kraken {"error":["EOrder:Insufficient funds"]}
+2026-03-05 01:11:34,298 | INFO     | risk.risk_manager | Position opened | SOL/USD | entry=89.7400 | size=0.767338 | SL=89.5300 | TP=90.6500
+2026-03-05 01:12:37,740 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 01:13:40,104 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 01:14:20,454 | INFO     | bot | Bot initialised | pairs=['BTC/USD', 'ETH/USD', 'SOL/USD'] | strategies=['scalping', 'breakout', 'range_trading', 'ma_trend'] | dry_run=False
+2026-03-05 01:14:21,444 | INFO     | bot | Bot started. Poll interval: 60s
+2026-03-05 01:14:25,178 | INFO     | bot | Signal | BUY | BTC/USD | ma_trend | entry=72183.0000 SL=71914.5826 TP=72719.8348
+2026-03-05 01:14:28,244 | INFO     | risk.risk_manager | Position size capped at 0.000812 BTC/USD (MAX_POSITION_PCT=15%)
+2026-03-05 01:14:28,391 | INFO     | exchange.kraken_client | Market BUY placed | BTC/USD | amount=0.000812 | id=O7EZQI-GL37Y-G3JQKC
+2026-03-05 01:14:30,559 | INFO     | exchange.kraken_client | Stop-loss placed | SELL BTC/USD | amount=0.000812 | trigger=71914.6000 | id=O3MTYM-2RZI5-HQJ5W6
+2026-03-05 01:14:30,763 | ERROR    | exchange.kraken_client | Failed to place limit sell for BTC/USD: kraken {"error":["EOrder:Insufficient funds"]}
+2026-03-05 01:14:30,764 | INFO     | risk.risk_manager | Position opened | BTC/USD | entry=72183.0000 | size=0.000812 | SL=71914.6000 | TP=72719.8000
+2026-03-05 01:14:36,137 | INFO     | bot | Signal | BUY | ETH/USD | ma_trend | entry=2116.3000 SL=2104.2930 TP=2140.3140
+2026-03-05 01:14:38,967 | INFO     | risk.risk_manager | Position size capped at 0.023557 ETH/USD (MAX_POSITION_PCT=15%)
+2026-03-05 01:14:39,319 | INFO     | exchange.kraken_client | Market BUY placed | ETH/USD | amount=0.023557 | id=OEKXF6-AAZOE-XNJ7AP
+2026-03-05 01:14:41,482 | INFO     | exchange.kraken_client | Stop-loss placed | SELL ETH/USD | amount=0.023557 | trigger=2104.2900 | id=OGU2WK-R3C2O-62V3GH
+2026-03-05 01:14:41,627 | ERROR    | exchange.kraken_client | Failed to place limit sell for ETH/USD: kraken {"error":["EOrder:Insufficient funds"]}
+2026-03-05 01:14:41,627 | INFO     | risk.risk_manager | Position opened | ETH/USD | entry=2116.3000 | size=0.023557 | SL=2104.2900 | TP=2140.3100
+2026-03-05 01:14:45,642 | INFO     | bot | Signal | BUY | SOL/USD | range_trading | entry=90.0200 SL=89.7626 TP=90.6500
+2026-03-05 01:14:48,603 | INFO     | risk.risk_manager | Position size capped at 0.471291 SOL/USD (MAX_POSITION_PCT=15%)
+2026-03-05 01:14:48,815 | INFO     | exchange.kraken_client | Market BUY placed | SOL/USD | amount=0.471291 | id=OM3MU4-64DSY-BO4QFK
+2026-03-05 01:14:50,960 | INFO     | exchange.kraken_client | Stop-loss placed | SELL SOL/USD | amount=0.471291 | trigger=89.7600 | id=OTEURI-4YGR6-YV65YN
+2026-03-05 01:14:51,104 | ERROR    | exchange.kraken_client | Failed to place limit sell for SOL/USD: kraken {"error":["EOrder:Insufficient funds"]}
+2026-03-05 01:14:51,105 | INFO     | risk.risk_manager | Position opened | SOL/USD | entry=90.0200 | size=0.471291 | SL=89.7600 | TP=90.6500
+2026-03-05 01:15:54,855 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 01:16:56,916 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 01:17:58,972 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 01:19:01,032 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 01:20:03,088 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 01:21:05,140 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 01:22:05,199 | INFO     | risk.risk_manager | Trailing stop activated for BTC/USD at 72489.4000 (57.1% toward TP)
+2026-03-05 01:22:07,195 | INFO     | risk.risk_manager | Trailing stop activated for SOL/USD at 90.4000 (60.3% toward TP)
+2026-03-05 01:22:07,195 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 01:23:07,251 | INFO     | risk.risk_manager | Trailing stop updated for BTC/USD: 71914.6000 -> 71917.6192 (highest=72497.6000)
+2026-03-05 01:23:07,544 | INFO     | exchange.kraken_client | Stop-loss placed | SELL BTC/USD | amount=0.000812 | trigger=71917.6000 | id=OKWHJM-S3YBR-Z5SOT7
+2026-03-05 01:23:10,183 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 01:24:12,300 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 01:25:14,442 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 01:26:16,509 | INFO     | risk.risk_manager | Trailing stop updated for SOL/USD: 89.7600 -> 89.7661 (highest=90.4900)
+2026-03-05 01:26:17,041 | INFO     | exchange.kraken_client | Stop-loss placed | SELL SOL/USD | amount=0.471291 | trigger=89.7700 | id=OZ2JGH-XGHFE-ZDGYSC
+2026-03-05 01:26:18,563 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 01:27:20,675 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 01:28:22,732 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 01:29:24,784 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 01:30:26,839 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 01:31:28,898 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 01:32:30,981 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 01:33:33,384 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 01:34:35,442 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 01:35:37,580 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 01:36:39,636 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 01:41:14,542 | INFO     | bot | Bot initialised | pairs=['BTC/USD', 'ETH/USD', 'SOL/USD'] | strategies=['scalping', 'breakout', 'range_trading', 'ma_trend'] | dry_run=False
+2026-03-05 01:41:15,548 | INFO     | bot | Bot started. Poll interval: 60s
+2026-03-05 01:46:13,168 | INFO     | bot | Signal | BUY | BTC/USD | ma_trend | entry=72422.9000 SL=71914.5826 TP=73439.5348 R/R=2.00
+2026-03-05 01:46:16,163 | INFO     | risk.risk_manager | Position size capped at 0.001265 BTC/USD (MAX_POSITION_PCT=15%)
+2026-03-05 01:46:16,302 | INFO     | exchange.kraken_client | Market BUY placed | BTC/USD | amount=0.001265 | id=O642YO-CE7K5-ROXJJ5
+2026-03-05 01:46:18,528 | INFO     | exchange.kraken_client | Stop-loss placed | SELL BTC/USD | amount=0.001265 | trigger=71914.6000 | id=O4VWUZ-MDPNM-PMD4JP
+2026-03-05 01:46:18,729 | ERROR    | exchange.kraken_client | Failed to place limit sell for BTC/USD: kraken {"error":["EOrder:Insufficient funds"]}
+2026-03-05 01:46:18,731 | INFO     | risk.risk_manager | Position opened | BTC/USD | entry=72422.9000 | size=0.001265 | SL=71914.6000 | TP=73439.5000
+2026-03-05 02:36:19,092 | INFO     | bot | Skipping ETH/USD/scalping — R/R 0.79 below minimum 1.5
+2026-03-05 02:36:23,901 | INFO     | bot | Skipping SOL/USD/scalping — R/R 0.94 below minimum 1.5
+2026-03-05 02:51:27,624 | INFO     | bot | Skipping ETH/USD/scalping — R/R 0.58 below minimum 1.5
+2026-03-05 02:51:32,370 | INFO     | bot | Skipping SOL/USD/scalping — R/R 1.03 below minimum 1.5
+2026-03-05 02:52:37,310 | INFO     | bot | Skipping ETH/USD/scalping — R/R 0.63 below minimum 1.5
+2026-03-05 02:53:45,801 | INFO     | bot | STOP-LOSS hit for BTC/USD at 71914.6000
+2026-03-05 02:53:45,803 | INFO     | risk.risk_manager | Position closed | BTC/USD | exit=71914.6000 | PnL=-0.64 USD | Net=-1.12 USD
+2026-03-05 02:53:47,311 | INFO     | bot | Skipping BTC/USD/scalping — R/R 1.01 below minimum 1.5
+2026-03-05 02:53:51,903 | INFO     | bot | Signal | BUY | ETH/USD | scalping | entry=2098.8500 SL=2088.3558 TP=2116.9485 R/R=1.72
+2026-03-05 02:53:54,906 | INFO     | risk.risk_manager | Position size capped at 0.043554 ETH/USD (MAX_POSITION_PCT=15%)
+2026-03-05 02:53:55,109 | INFO     | exchange.kraken_client | Market BUY placed | ETH/USD | amount=0.043554 | id=OODJY3-FT3QM-LSKEBM
+2026-03-05 02:53:57,262 | INFO     | exchange.kraken_client | Stop-loss placed | SELL ETH/USD | amount=0.043554 | trigger=2088.3600 | id=OZOZNW-EGQDS-CUAA6G
+2026-03-05 02:53:57,396 | ERROR    | exchange.kraken_client | Failed to place limit sell for ETH/USD: kraken {"error":["EOrder:Insufficient funds"]}
+2026-03-05 02:53:57,397 | INFO     | risk.risk_manager | Position opened | ETH/USD | entry=2098.8500 | size=0.043554 | SL=2088.3600 | TP=2116.9500
+2026-03-05 03:04:28,623 | INFO     | bot | Signal | BUY | SOL/USD | range_trading | entry=90.0400 SL=89.6953 TP=90.6500 R/R=1.77
+2026-03-05 03:04:31,620 | INFO     | risk.risk_manager | Position size capped at 0.863889 SOL/USD (MAX_POSITION_PCT=15%)
+2026-03-05 03:04:31,773 | INFO     | exchange.kraken_client | Market BUY placed | SOL/USD | amount=0.863889 | id=O24HFN-4FCSK-FVPDPD
+2026-03-05 03:04:33,910 | INFO     | exchange.kraken_client | Stop-loss placed | SELL SOL/USD | amount=0.863889 | trigger=89.7000 | id=OXBKKJ-TDL54-NHP64Q
+2026-03-05 03:04:34,069 | ERROR    | exchange.kraken_client | Failed to place limit sell for SOL/USD: kraken {"error":["EOrder:Insufficient funds"]}
+2026-03-05 03:04:34,071 | INFO     | risk.risk_manager | Position opened | SOL/USD | entry=90.0400 | size=0.863889 | SL=89.7000 | TP=90.6500
+2026-03-05 03:27:33,948 | INFO     | bot | STOP-LOSS hit for SOL/USD at 89.7000
+2026-03-05 03:27:33,950 | INFO     | risk.risk_manager | Position closed | SOL/USD | exit=89.7000 | PnL=-0.29 USD | Net=-0.70 USD
+2026-03-05 03:28:49,896 | INFO     | bot | Skipping SOL/USD/scalping — R/R 0.40 below minimum 1.5
+2026-03-05 03:28:52,382 | INFO     | bot | Signal | BUY | SOL/USD | range_trading | entry=89.8500 SL=89.5456 TP=90.6500 R/R=2.63
+2026-03-05 03:28:55,285 | INFO     | risk.risk_manager | Position size capped at 0.864104 SOL/USD (MAX_POSITION_PCT=15%)
+2026-03-05 03:28:55,451 | INFO     | exchange.kraken_client | Market BUY placed | SOL/USD | amount=0.864104 | id=OW5AE6-XJP5O-422RKP
+2026-03-05 03:28:57,594 | INFO     | exchange.kraken_client | Stop-loss placed | SELL SOL/USD | amount=0.864104 | trigger=89.5500 | id=O5CGLC-BJTCU-GZJFPM
+2026-03-05 03:28:57,722 | ERROR    | exchange.kraken_client | Failed to place limit sell for SOL/USD: kraken {"error":["EOrder:Insufficient funds"]}
+2026-03-05 03:28:57,725 | INFO     | risk.risk_manager | Position opened | SOL/USD | entry=89.8500 | size=0.864104 | SL=89.5500 | TP=90.6500
+2026-03-05 03:33:18,050 | INFO     | risk.risk_manager | Trailing stop activated for SOL/USD at 90.3600 (63.7% toward TP)
+2026-03-05 03:33:18,051 | INFO     | risk.risk_manager | Trailing stop updated for SOL/USD: 89.5500 -> 89.6371 (highest=90.3600)
+2026-03-05 03:33:18,333 | INFO     | exchange.kraken_client | Stop-loss placed | SELL SOL/USD | amount=0.864104 | trigger=89.6400 | id=OSVSK6-IYSLD-TZIPPL
+2026-03-05 03:45:22,331 | INFO     | risk.risk_manager | Trailing stop activated for ETH/USD at 2113.0600 (78.5% toward TP)
+2026-03-05 03:45:22,331 | INFO     | risk.risk_manager | Trailing stop updated for ETH/USD: 2088.3600 -> 2096.1555 (highest=2113.0600)
+2026-03-05 03:45:22,602 | INFO     | exchange.kraken_client | Stop-loss placed | SELL ETH/USD | amount=0.043554 | trigger=2096.1600 | id=OLJIET-KSXGG-DX2WNP
+2026-03-05 03:45:23,777 | INFO     | risk.risk_manager | Trailing stop updated for SOL/USD: 89.6371 -> 89.6669 (highest=90.3900)
+2026-03-05 03:45:24,053 | INFO     | exchange.kraken_client | Stop-loss placed | SELL SOL/USD | amount=0.864104 | trigger=89.6700 | id=OIPREZ-EATRD-EMHSKU
+2026-03-05 03:45:28,770 | INFO     | bot | Signal | BUY | BTC/USD | ma_trend | entry=72201.0000 SL=71649.8132 TP=73303.3736 R/R=2.00
+2026-03-05 03:45:31,859 | INFO     | risk.risk_manager | Position size capped at 0.000915 BTC/USD (MAX_POSITION_PCT=15%)
+2026-03-05 03:45:32,039 | INFO     | exchange.kraken_client | Market BUY placed | BTC/USD | amount=0.000915 | id=O26ED3-OBT5B-UM6AFB
+2026-03-05 03:45:34,192 | INFO     | exchange.kraken_client | Stop-loss placed | SELL BTC/USD | amount=0.000915 | trigger=71649.8000 | id=O5XMW6-PL2CD-NTRRZ5
+2026-03-05 03:45:34,367 | ERROR    | exchange.kraken_client | Failed to place limit sell for BTC/USD: kraken {"error":["EOrder:Insufficient funds"]}
+2026-03-05 03:45:34,372 | INFO     | risk.risk_manager | Position opened | BTC/USD | entry=72201.0000 | size=0.000915 | SL=71649.8000 | TP=73303.4000
+2026-03-05 03:46:38,004 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 03:47:40,175 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 03:48:42,304 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 03:49:43,449 | INFO     | risk.risk_manager | Trailing stop updated for SOL/USD: 89.6669 -> 89.7363 (highest=90.4600)
+2026-03-05 03:49:43,706 | INFO     | exchange.kraken_client | Stop-loss placed | SELL SOL/USD | amount=0.864104 | trigger=89.7400 | id=OZEWKQ-RT72Y-62DV6Z
+2026-03-05 03:49:45,154 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 03:50:46,295 | INFO     | risk.risk_manager | Trailing stop updated for SOL/USD: 89.7363 -> 89.7462 (highest=90.4700)
+2026-03-05 03:50:46,572 | INFO     | exchange.kraken_client | Stop-loss placed | SELL SOL/USD | amount=0.864104 | trigger=89.7500 | id=OWDBRE-UZ5IP-QBX6MC
+2026-03-05 03:50:47,555 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 03:51:48,591 | INFO     | risk.risk_manager | Trailing stop updated for SOL/USD: 89.7462 -> 89.8752 (highest=90.6000)
+2026-03-05 03:51:48,886 | INFO     | exchange.kraken_client | Stop-loss placed | SELL SOL/USD | amount=0.864104 | trigger=89.8800 | id=OV47GL-UY6CU-LCA65P
+2026-03-05 03:51:49,877 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 03:52:50,019 | INFO     | risk.risk_manager | Trailing stop updated for ETH/USD: 2096.1555 -> 2098.2486 (highest=2115.1700)
+2026-03-05 03:52:50,319 | INFO     | exchange.kraken_client | Stop-loss placed | SELL ETH/USD | amount=0.043554 | trigger=2098.2500 | id=O66VZ4-LECT6-MKLLSZ
+2026-03-05 03:52:51,494 | INFO     | risk.risk_manager | Trailing stop updated for SOL/USD: 89.8752 -> 89.9645 (highest=90.6900)
+2026-03-05 03:52:51,766 | INFO     | exchange.kraken_client | Stop-loss placed | SELL SOL/USD | amount=0.864104 | trigger=89.9600 | id=OR6Y6H-6DDCG-A4DJ4Y
+2026-03-05 03:52:52,904 | INFO     | bot | TAKE-PROFIT hit for SOL/USD at 90.6500
+2026-03-05 03:52:53,049 | INFO     | risk.risk_manager | Position closed | SOL/USD | exit=90.6500 | PnL=0.69 USD | Net=0.29 USD
+2026-03-05 03:56:10,871 | INFO     | risk.risk_manager | Trailing stop updated for ETH/USD: 2098.2486 -> 2098.5760 (highest=2115.5000)
+2026-03-05 03:56:11,160 | INFO     | exchange.kraken_client | Stop-loss placed | SELL ETH/USD | amount=0.043554 | trigger=2098.5800 | id=O2SNW5-UJ3FN-4ANJ62
+2026-03-05 03:57:17,137 | INFO     | risk.risk_manager | Trailing stop updated for ETH/USD: 2098.5760 -> 2099.1910 (highest=2116.1200)
+2026-03-05 03:57:17,407 | INFO     | exchange.kraken_client | Stop-loss placed | SELL ETH/USD | amount=0.043554 | trigger=2099.1900 | id=OS77D5-5ZJKQ-DKS7C3
+2026-03-05 03:58:23,521 | INFO     | risk.risk_manager | Trailing stop updated for ETH/USD: 2099.1910 -> 2100.0640 (highest=2117.0000)
+2026-03-05 03:58:23,820 | INFO     | exchange.kraken_client | Stop-loss placed | SELL ETH/USD | amount=0.043554 | trigger=2100.0600 | id=OYXXOQ-3WJAX-4IIDIM
+2026-03-05 03:58:24,670 | INFO     | bot | TAKE-PROFIT hit for ETH/USD at 2116.9500
+2026-03-05 03:58:24,811 | INFO     | risk.risk_manager | Position closed | ETH/USD | exit=2116.9500 | PnL=0.79 USD | Net=0.31 USD
+2026-03-05 04:36:47,012 | INFO     | risk.risk_manager | Trailing stop activated for BTC/USD at 72877.8000 (61.4% toward TP)
+2026-03-05 04:36:47,013 | INFO     | risk.risk_manager | Trailing stop updated for BTC/USD: 71649.8000 -> 72294.7776 (highest=72877.8000)
+2026-03-05 04:36:47,292 | INFO     | exchange.kraken_client | Stop-loss placed | SELL BTC/USD | amount=0.000915 | trigger=72294.8000 | id=O7QGP7-GE2NZ-45ZWLU
+2026-03-05 05:24:31,296 | INFO     | risk.risk_manager | Trailing stop updated for BTC/USD: 72294.7776 -> 72368.2848 (highest=72951.9000)
+2026-03-05 05:24:31,569 | INFO     | exchange.kraken_client | Stop-loss placed | SELL BTC/USD | amount=0.000915 | trigger=72368.3000 | id=OOZMGT-3PBSC-E5PZIS
+2026-03-05 05:26:51,169 | INFO     | risk.risk_manager | Trailing stop updated for BTC/USD: 72368.2848 -> 72724.7104 (highest=73311.2000)
+2026-03-05 05:26:51,493 | INFO     | exchange.kraken_client | Stop-loss placed | SELL BTC/USD | amount=0.000915 | trigger=72724.7000 | id=OMI2FY-GB3GU-JKZBN4
+2026-03-05 05:26:52,677 | INFO     | bot | TAKE-PROFIT hit for BTC/USD at 73303.4000
+2026-03-05 05:26:52,825 | INFO     | risk.risk_manager | Position closed | BTC/USD | exit=73303.4000 | PnL=1.01 USD | Net=0.66 USD
+2026-03-05 06:40:20,034 | INFO     | bot | Skipping ETH/USD/scalping — R/R 1.06 below minimum 1.5
+2026-03-05 06:40:24,896 | INFO     | bot | Skipping SOL/USD/scalping — R/R 1.07 below minimum 1.5
+2026-03-05 06:41:38,004 | INFO     | bot | Skipping SOL/USD/scalping — R/R 0.98 below minimum 1.5
+2026-03-05 07:03:32,942 | INFO     | bot | Skipping ETH/USD/scalping — R/R 0.85 below minimum 1.5
+2026-03-05 07:03:37,775 | INFO     | bot | Skipping SOL/USD/scalping — R/R 0.77 below minimum 1.5
+2026-03-05 08:26:35,585 | INFO     | bot | Skipping BTC/USD/scalping — R/R 0.49 below minimum 1.5
+2026-03-05 08:26:40,403 | INFO     | bot | Skipping ETH/USD/scalping — R/R 0.51 below minimum 1.5
+2026-03-05 08:26:45,320 | INFO     | bot | Skipping SOL/USD/scalping — R/R 0.39 below minimum 1.5
+2026-03-05 08:32:42,259 | INFO     | bot | Skipping BTC/USD/scalping — R/R 0.82 below minimum 1.5
+2026-03-05 08:32:51,866 | INFO     | bot | Signal | BUY | SOL/USD | scalping | entry=90.6100 SL=90.1569 TP=91.3305 R/R=1.59
+2026-03-05 08:32:54,942 | INFO     | risk.risk_manager | Position size capped at 0.620413 SOL/USD (MAX_POSITION_PCT=15%)
+2026-03-05 08:32:55,095 | INFO     | exchange.kraken_client | Market BUY placed | SOL/USD | amount=0.620413 | id=OSTNTT-YGWFJ-NDVIHE
+2026-03-05 08:32:57,239 | INFO     | exchange.kraken_client | Stop-loss placed | SELL SOL/USD | amount=0.620413 | trigger=90.1600 | id=OSOQJM-JTPAK-VZBSYU
+2026-03-05 08:32:57,408 | INFO     | exchange.kraken_client | Limit SELL placed | SOL/USD | amount=0.620413 | price=91.3300 | id=OP6PUQ-I3GCC-4KHTPS
+2026-03-05 08:32:57,435 | INFO     | risk.risk_manager | Position opened | SOL/USD | entry=90.6100 | size=0.620413 | SL=90.1600 | TP=91.3300
+2026-03-05 08:45:38,910 | INFO     | bot | Signal | BUY | BTC/USD | range_trading | entry=72521.2000 SL=72298.5465 TP=72855.7000 R/R=1.50
+2026-03-05 08:45:41,991 | INFO     | risk.risk_manager | Position size capped at 0.000660 BTC/USD (MAX_POSITION_PCT=15%)
+2026-03-05 08:45:42,153 | INFO     | exchange.kraken_client | Market BUY placed | BTC/USD | amount=0.000660 | id=OAT5Z6-OUNMY-YCYQ4J
+2026-03-05 08:45:44,300 | INFO     | exchange.kraken_client | Stop-loss placed | SELL BTC/USD | amount=0.000660 | trigger=72298.5000 | id=OAHD4Z-XLZA6-WUI3NV
+2026-03-05 08:45:44,460 | INFO     | exchange.kraken_client | Limit SELL placed | BTC/USD | amount=0.000660 | price=72855.7000 | id=OB3HRX-BHRWK-P2LZ5F
+2026-03-05 08:45:44,462 | INFO     | risk.risk_manager | Position opened | BTC/USD | entry=72521.2000 | size=0.000660 | SL=72298.5000 | TP=72855.7000
+2026-03-05 08:47:55,277 | INFO     | risk.risk_manager | Trailing stop activated for SOL/USD at 91.0000 (54.2% toward TP)
+2026-03-05 08:47:55,304 | INFO     | risk.risk_manager | Trailing stop updated for SOL/USD: 90.1600 -> 90.2720 (highest=91.0000)
+2026-03-05 08:47:55,634 | INFO     | exchange.kraken_client | Stop-loss placed | SELL SOL/USD | amount=0.620413 | trigger=90.2700 | id=OWVEJX-Q2CXT-FLGTIG
+2026-03-05 08:49:01,502 | INFO     | risk.risk_manager | Trailing stop updated for SOL/USD: 90.2720 -> 90.3514 (highest=91.0800)
+2026-03-05 08:49:01,792 | INFO     | exchange.kraken_client | Stop-loss placed | SELL SOL/USD | amount=0.620413 | trigger=90.3500 | id=OVNBPK-3LO62-7QARFY
+2026-03-05 08:51:13,526 | INFO     | risk.risk_manager | Trailing stop updated for SOL/USD: 90.3514 -> 90.4109 (highest=91.1400)
+2026-03-05 08:51:13,824 | INFO     | exchange.kraken_client | Stop-loss placed | SELL SOL/USD | amount=0.620413 | trigger=90.4100 | id=OPJOLT-554WK-GMI2U3
+2026-03-05 08:51:14,791 | INFO     | risk.risk_manager | Trailing stop activated for BTC/USD at 72701.8000 (54.0% toward TP)
+2026-03-05 08:52:19,657 | INFO     | risk.risk_manager | Trailing stop updated for SOL/USD: 90.4109 -> 90.4704 (highest=91.2000)
+2026-03-05 08:52:19,965 | INFO     | exchange.kraken_client | Stop-loss placed | SELL SOL/USD | amount=0.620413 | trigger=90.4700 | id=OFKDT3-6QMD5-3OFSGD
+2026-03-05 09:00:05,978 | INFO     | bot | Signal | BUY | ETH/USD | range_trading | entry=2118.8200 SL=2114.5047 TP=2134.3375 R/R=3.60
+2026-03-05 09:00:09,073 | INFO     | risk.risk_manager | Position size capped at 0.019207 ETH/USD (MAX_POSITION_PCT=15%)
+2026-03-05 09:00:09,256 | INFO     | exchange.kraken_client | Market BUY placed | ETH/USD | amount=0.019207 | id=OJELOM-2AKIG-NW3S6X
+2026-03-05 09:00:11,405 | INFO     | exchange.kraken_client | Stop-loss placed | SELL ETH/USD | amount=0.019207 | trigger=2114.5000 | id=OLAUPW-B3HF7-ZL6BXM
+2026-03-05 09:00:11,564 | INFO     | exchange.kraken_client | Limit SELL placed | ETH/USD | amount=0.019207 | price=2134.3400 | id=OARQOL-K6JA6-TVGKRS
+2026-03-05 09:00:11,565 | INFO     | risk.risk_manager | Position opened | ETH/USD | entry=2118.8200 | size=0.019207 | SL=2114.5000 | TP=2134.3400
+2026-03-05 09:01:14,567 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 09:02:16,618 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 09:03:18,729 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 09:04:20,809 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 09:05:22,890 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 09:06:24,971 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 09:07:27,093 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 09:08:29,258 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 09:09:31,520 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 09:10:33,588 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 09:11:35,645 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 09:12:37,771 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 09:13:39,905 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 09:14:41,962 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 09:15:44,135 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 09:16:46,304 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 09:17:48,493 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 09:18:50,666 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 09:19:52,798 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 09:20:54,856 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 09:21:56,914 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 09:22:59,074 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 09:24:01,205 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 09:25:03,261 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 09:26:05,326 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 09:27:07,431 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 09:28:09,492 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 09:29:11,621 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 09:30:13,770 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 09:31:15,846 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 09:32:17,931 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 09:33:19,997 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 09:34:22,078 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 09:35:22,185 | INFO     | risk.risk_manager | Trailing stop updated for SOL/USD: 90.4704 -> 90.4902 (highest=91.2200)
+2026-03-05 09:35:22,554 | INFO     | exchange.kraken_client | Stop-loss placed | SELL SOL/USD | amount=0.620413 | trigger=90.4900 | id=O2KP72-2DTQN-ZUF3R2
+2026-03-05 09:35:24,681 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 09:36:24,814 | INFO     | risk.risk_manager | Trailing stop updated for SOL/USD: 90.4902 -> 90.5101 (highest=91.2400)
+2026-03-05 09:36:25,215 | INFO     | exchange.kraken_client | Stop-loss placed | SELL SOL/USD | amount=0.620413 | trigger=90.5100 | id=OKGYMM-5WVHK-CCIIPA
+2026-03-05 09:36:27,133 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 09:37:27,211 | INFO     | risk.risk_manager | Trailing stop updated for SOL/USD: 90.5101 -> 90.5398 (highest=91.2700)
+2026-03-05 09:37:27,517 | INFO     | exchange.kraken_client | Stop-loss placed | SELL SOL/USD | amount=0.620413 | trigger=90.5400 | id=O75BN7-6N3MK-RYOJVQ
+2026-03-05 09:37:29,414 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 09:38:31,480 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 09:39:31,558 | INFO     | bot | STOP-LOSS hit for SOL/USD at 90.5398
+2026-03-05 09:39:31,710 | ERROR    | exchange.kraken_client | Failed to cancel order OP6PUQ-I3GCC-4KHTPS: kraken cancelOrder() error {"error":["EOrder:Unknown order"]}
+2026-03-05 09:39:31,711 | INFO     | risk.risk_manager | Position closed | SOL/USD | exit=90.5398 | PnL=-0.04 USD | Net=-0.34 USD
+2026-03-05 09:39:32,656 | INFO     | bot | STOP-LOSS hit for BTC/USD at 72298.5000
+2026-03-05 09:39:32,824 | ERROR    | exchange.kraken_client | Failed to cancel order OB3HRX-BHRWK-P2LZ5F: kraken cancelOrder() error {"error":["EOrder:Unknown order"]}
+2026-03-05 09:39:32,824 | INFO     | risk.risk_manager | Position closed | BTC/USD | exit=72298.5000 | PnL=-0.15 USD | Net=-0.40 USD
+2026-03-05 09:39:33,832 | INFO     | bot | STOP-LOSS hit for ETH/USD at 2114.5000
+2026-03-05 09:39:33,986 | INFO     | risk.risk_manager | Position closed | ETH/USD | exit=2114.5000 | PnL=-0.08 USD | Net=-0.29 USD
+2026-03-05 09:39:38,732 | INFO     | bot | Signal | BUY | BTC/USD | ma_trend | entry=72185.6000 SL=72041.2288 TP=72474.3424 R/R=2.00
+2026-03-05 09:39:41,818 | INFO     | risk.risk_manager | Position size capped at 0.000990 BTC/USD (MAX_POSITION_PCT=15%)
+2026-03-05 09:39:41,973 | INFO     | exchange.kraken_client | Market BUY placed | BTC/USD | amount=0.000990 | id=OBXFTS-QLUTC-KFRM32
+2026-03-05 09:39:44,116 | INFO     | exchange.kraken_client | Stop-loss placed | SELL BTC/USD | amount=0.000990 | trigger=72041.2000 | id=OQLTTE-HEFG2-WHGRWW
+2026-03-05 09:39:44,264 | ERROR    | exchange.kraken_client | Failed to place limit sell for BTC/USD: kraken {"error":["EOrder:Insufficient funds"]}
+2026-03-05 09:39:44,266 | INFO     | risk.risk_manager | Position opened | BTC/USD | entry=72185.6000 | size=0.000990 | SL=72041.2000 | TP=72474.3000
+2026-03-05 09:39:53,923 | INFO     | bot | Signal | BUY | SOL/USD | ma_trend | entry=90.2900 SL=90.0096 TP=90.8508 R/R=2.00
+2026-03-05 09:39:56,883 | INFO     | risk.risk_manager | Position size capped at 0.673732 SOL/USD (MAX_POSITION_PCT=15%)
+2026-03-05 09:39:57,027 | INFO     | exchange.kraken_client | Market BUY placed | SOL/USD | amount=0.673732 | id=OSOPB5-OT427-RDZ5I6
+2026-03-05 09:39:59,179 | INFO     | exchange.kraken_client | Stop-loss placed | SELL SOL/USD | amount=0.673732 | trigger=90.0100 | id=OAOVC3-ZKNXD-URUWKN
+2026-03-05 09:39:59,335 | ERROR    | exchange.kraken_client | Failed to place limit sell for SOL/USD: kraken {"error":["EOrder:Insufficient funds"]}
+2026-03-05 09:39:59,336 | INFO     | risk.risk_manager | Position opened | SOL/USD | entry=90.2900 | size=0.673732 | SL=90.0100 | TP=90.8500
+2026-03-05 09:52:00,222 | INFO     | risk.risk_manager | Trailing stop activated for BTC/USD at 72475.3000 (100.3% toward TP)
+2026-03-05 09:52:00,226 | INFO     | bot | TAKE-PROFIT hit for BTC/USD at 72474.3000
+2026-03-05 09:52:00,392 | ERROR    | exchange.kraken_client | Failed to cancel order OQLTTE-HEFG2-WHGRWW: kraken cancelOrder() error {"error":["EOrder:Unknown order"]}
+2026-03-05 09:52:00,392 | INFO     | risk.risk_manager | Position closed | BTC/USD | exit=72474.3000 | PnL=0.29 USD | Net=-0.09 USD
+2026-03-05 09:52:01,412 | INFO     | risk.risk_manager | Trailing stop activated for SOL/USD at 90.8700 (103.6% toward TP)
+2026-03-05 09:52:01,412 | INFO     | risk.risk_manager | Trailing stop updated for SOL/USD: 90.0100 -> 90.1430 (highest=90.8700)
+2026-03-05 09:52:01,571 | ERROR    | exchange.kraken_client | Failed to cancel order OAOVC3-ZKNXD-URUWKN: kraken cancelOrder() error {"error":["EOrder:Unknown order"]}
+2026-03-05 09:52:01,719 | ERROR    | exchange.kraken_client | Failed to place stop-loss for SOL/USD: kraken {"error":["EOrder:Insufficient funds"]}
+2026-03-05 09:52:01,720 | INFO     | bot | TAKE-PROFIT hit for SOL/USD at 90.8500
+2026-03-05 09:52:01,720 | INFO     | risk.risk_manager | Position closed | SOL/USD | exit=90.8500 | PnL=0.38 USD | Net=0.06 USD
+2026-03-05 09:52:05,242 | INFO     | bot | Signal | BUY | BTC/USD | range_trading | entry=72444.2000 SL=72296.8665 TP=72838.5600 R/R=2.68
+2026-03-05 09:52:08,316 | INFO     | risk.risk_manager | Position size capped at 0.000984 BTC/USD (MAX_POSITION_PCT=15%)
+2026-03-05 09:52:08,463 | INFO     | exchange.kraken_client | Market BUY placed | BTC/USD | amount=0.000984 | id=OZLGQN-AFCIC-5SOF7R
+2026-03-05 09:52:10,609 | INFO     | exchange.kraken_client | Stop-loss placed | SELL BTC/USD | amount=0.000984 | trigger=72296.9000 | id=OCMOQS-WIA6K-HYJMOJ
+2026-03-05 09:52:10,866 | ERROR    | exchange.kraken_client | Failed to place limit sell for BTC/USD: kraken {"error":["EOrder:Insufficient funds"]}
+2026-03-05 09:52:10,867 | INFO     | risk.risk_manager | Position opened | BTC/USD | entry=72444.2000 | size=0.000984 | SL=72296.9000 | TP=72838.6000
+2026-03-05 09:59:13,131 | INFO     | bot | Signal | BUY | ETH/USD | range_trading | entry=2119.4700 SL=2114.3273 TP=2133.8812 R/R=2.80
+2026-03-05 09:59:16,318 | INFO     | risk.risk_manager | Position size capped at 0.028620 ETH/USD (MAX_POSITION_PCT=15%)
+2026-03-05 09:59:16,484 | INFO     | exchange.kraken_client | Market BUY placed | ETH/USD | amount=0.028620 | id=ODVGHM-WEWYE-K5ECAY
+2026-03-05 09:59:18,627 | INFO     | exchange.kraken_client | Stop-loss placed | SELL ETH/USD | amount=0.028620 | trigger=2114.3300 | id=OA6QXK-K7WVI-JNCNQJ
+2026-03-05 09:59:18,781 | INFO     | exchange.kraken_client | Limit SELL placed | ETH/USD | amount=0.028620 | price=2133.8800 | id=OMG37Z-MRHTF-RATHHX
+2026-03-05 09:59:18,783 | INFO     | risk.risk_manager | Position opened | ETH/USD | entry=2119.4700 | size=0.028620 | SL=2114.3300 | TP=2133.8800
+2026-03-05 10:00:23,562 | INFO     | risk.risk_manager | Trailing stop activated for BTC/USD at 72692.8000 (63.0% toward TP)
+2026-03-05 10:03:42,505 | INFO     | bot | STOP-LOSS hit for ETH/USD at 2114.3300
+2026-03-05 10:03:42,648 | INFO     | risk.risk_manager | Position closed | ETH/USD | exit=2114.3300 | PnL=-0.15 USD | Net=-0.46 USD
+2026-03-05 10:03:47,465 | INFO     | bot | Signal | BUY | ETH/USD | ma_trend | entry=2110.4600 SL=2093.8040 TP=2143.7720 R/R=2.00
+2026-03-05 10:03:50,535 | INFO     | risk.risk_manager | Position size capped at 0.028695 ETH/USD (MAX_POSITION_PCT=15%)
+2026-03-05 10:03:50,764 | INFO     | exchange.kraken_client | Market BUY placed | ETH/USD | amount=0.028695 | id=OE5VF4-3SXOB-V4BWNS
+2026-03-05 10:03:52,898 | INFO     | exchange.kraken_client | Stop-loss placed | SELL ETH/USD | amount=0.028695 | trigger=2093.8000 | id=OW5H3B-XJLEB-B6QQQ4
+2026-03-05 10:03:53,044 | INFO     | exchange.kraken_client | Limit SELL placed | ETH/USD | amount=0.028695 | price=2143.7700 | id=OJ6VQH-5LQXY-4ZAXY2
+2026-03-05 10:03:53,046 | INFO     | risk.risk_manager | Position opened | ETH/USD | entry=2110.4600 | size=0.028695 | SL=2093.8000 | TP=2143.7700
+2026-03-05 10:04:57,859 | INFO     | bot | STOP-LOSS hit for BTC/USD at 72296.9000
+2026-03-05 10:04:57,860 | INFO     | risk.risk_manager | Position closed | BTC/USD | exit=72296.9000 | PnL=-0.14 USD | Net=-0.52 USD
+2026-03-05 10:08:27,881 | INFO     | bot | STOP-LOSS hit for ETH/USD at 2093.8000
+2026-03-05 10:08:28,028 | INFO     | risk.risk_manager | Position closed | ETH/USD | exit=2093.8000 | PnL=-0.48 USD | Net=-0.79 USD
+2026-03-05 10:11:00,612 | INFO     | bot | Signal | BUY | ETH/USD | scalping | entry=2089.0700 SL=2078.6247 TP=2110.6395 R/R=2.06
+2026-03-05 10:11:03,654 | INFO     | risk.risk_manager | Position size capped at 0.033953 ETH/USD (MAX_POSITION_PCT=15%)
+2026-03-05 10:11:03,801 | INFO     | exchange.kraken_client | Market BUY placed | ETH/USD | amount=0.033953 | id=OWOWND-H65TL-PTQVQU
+2026-03-05 10:11:05,939 | INFO     | exchange.kraken_client | Stop-loss placed | SELL ETH/USD | amount=0.033953 | trigger=2078.6200 | id=OY6ZSN-A5QZH-7FJNCV
+2026-03-05 10:11:06,113 | INFO     | exchange.kraken_client | Limit SELL placed | ETH/USD | amount=0.033953 | price=2110.6400 | id=ODA4MY-WIQTX-M2HRYJ
+2026-03-05 10:11:06,113 | INFO     | risk.risk_manager | Position opened | ETH/USD | entry=2089.0700 | size=0.033953 | SL=2078.6200 | TP=2110.6400
+2026-03-05 10:12:12,420 | INFO     | bot | Signal | BUY | BTC/USD | scalping | entry=71722.4000 SL=71363.7880 TP=72329.2400 R/R=1.69
+2026-03-05 10:12:15,239 | INFO     | risk.risk_manager | Position size capped at 0.000841 BTC/USD (MAX_POSITION_PCT=15%)
+2026-03-05 10:12:15,452 | INFO     | exchange.kraken_client | Market BUY placed | BTC/USD | amount=0.000841 | id=OA6RHC-PSL4G-TPKAUF
+2026-03-05 10:12:17,586 | INFO     | exchange.kraken_client | Stop-loss placed | SELL BTC/USD | amount=0.000841 | trigger=71363.8000 | id=O52FXM-RJOV6-V442RH
+2026-03-05 10:12:17,745 | ERROR    | exchange.kraken_client | Failed to place limit sell for BTC/USD: kraken {"error":["EOrder:Insufficient funds"]}
+2026-03-05 10:12:17,778 | INFO     | risk.risk_manager | Position opened | BTC/USD | entry=71722.4000 | size=0.000841 | SL=71363.8000 | TP=72329.2000
+2026-03-05 10:12:18,959 | INFO     | bot | Signal | BUY | SOL/USD | scalping | entry=89.5400 SL=89.0923 TP=90.5095 R/R=2.17
+2026-03-05 10:12:21,929 | INFO     | risk.risk_manager | Position size capped at 0.573505 SOL/USD (MAX_POSITION_PCT=15%)
+2026-03-05 10:12:22,124 | INFO     | exchange.kraken_client | Market BUY placed | SOL/USD | amount=0.573505 | id=OZB6OD-TEZIQ-F26HUM
+2026-03-05 10:12:24,272 | INFO     | exchange.kraken_client | Stop-loss placed | SELL SOL/USD | amount=0.573505 | trigger=89.0900 | id=O62JJT-BZ3HT-5IOKUC
+2026-03-05 10:12:24,410 | ERROR    | exchange.kraken_client | Failed to place limit sell for SOL/USD: kraken {"error":["EOrder:Insufficient funds"]}
+2026-03-05 10:12:24,412 | INFO     | risk.risk_manager | Position opened | SOL/USD | entry=89.5400 | size=0.573505 | SL=89.0900 | TP=90.5100
+2026-03-05 10:13:27,601 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 10:14:29,642 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 10:15:31,975 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 10:16:34,316 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 10:17:36,656 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 10:18:38,968 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 10:19:41,361 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 10:20:43,738 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 10:21:45,831 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 10:22:48,148 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 10:23:50,338 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 10:24:52,472 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 10:25:54,622 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 10:26:54,971 | INFO     | bot | STOP-LOSS hit for ETH/USD at 2078.6200
+2026-03-05 10:26:55,140 | INFO     | risk.risk_manager | Position closed | ETH/USD | exit=2078.6200 | PnL=-0.35 USD | Net=-0.72 USD
+2026-03-05 10:28:02,022 | INFO     | bot | STOP-LOSS hit for BTC/USD at 71363.8000
+2026-03-05 10:28:02,024 | INFO     | risk.risk_manager | Position closed | BTC/USD | exit=71363.8000 | PnL=-0.30 USD | Net=-0.61 USD
+2026-03-05 10:28:04,534 | INFO     | bot | Skipping BTC/USD/scalping — R/R 1.00 below minimum 1.5
+2026-03-05 10:29:12,804 | INFO     | bot | STOP-LOSS hit for SOL/USD at 89.0900
+2026-03-05 10:29:12,806 | INFO     | risk.risk_manager | Position closed | SOL/USD | exit=89.0900 | PnL=-0.26 USD | Net=-0.52 USD
+2026-03-05 10:29:23,652 | INFO     | bot | Skipping SOL/USD/scalping — R/R 1.00 below minimum 1.5
+2026-03-05 10:40:26,337 | INFO     | bot | Signal | BUY | SOL/USD | range_trading | entry=89.7300 SL=89.5156 TP=91.4767 R/R=8.15
+2026-03-05 10:40:29,307 | INFO     | risk.risk_manager | Position size capped at 0.786395 SOL/USD (MAX_POSITION_PCT=15%)
+2026-03-05 10:40:29,499 | INFO     | exchange.kraken_client | Market BUY placed | SOL/USD | amount=0.786395 | id=O7FCZ3-X3XMH-ISOFLL
+2026-03-05 10:40:31,689 | INFO     | exchange.kraken_client | Stop-loss placed | SELL SOL/USD | amount=0.786395 | trigger=89.5200 | id=OJ2Q2X-L3YAF-GVPOIB
+2026-03-05 10:40:31,879 | ERROR    | exchange.kraken_client | Failed to place limit sell for SOL/USD: kraken {"error":["EOrder:Insufficient funds"]}
+2026-03-05 10:40:31,880 | INFO     | risk.risk_manager | Position opened | SOL/USD | entry=89.7300 | size=0.786395 | SL=89.5200 | TP=91.4800
+2026-03-05 10:43:52,680 | INFO     | bot | STOP-LOSS hit for SOL/USD at 89.5200
+2026-03-05 10:43:52,680 | INFO     | risk.risk_manager | Position closed | SOL/USD | exit=89.5200 | PnL=-0.17 USD | Net=-0.53 USD
+2026-03-05 10:53:52,465 | INFO     | bot | Signal | BUY | SOL/USD | range_trading | entry=89.7500 SL=89.5339 TP=91.4767 R/R=7.99
+2026-03-05 10:53:55,455 | INFO     | risk.risk_manager | Position size capped at 0.785018 SOL/USD (MAX_POSITION_PCT=15%)
+2026-03-05 10:53:55,598 | INFO     | exchange.kraken_client | Market BUY placed | SOL/USD | amount=0.785018 | id=OBEMQV-2RRTD-VWM2UP
+2026-03-05 10:53:57,805 | INFO     | exchange.kraken_client | Stop-loss placed | SELL SOL/USD | amount=0.785018 | trigger=89.5300 | id=OFKLAM-J2NZC-INYAPX
+2026-03-05 10:53:57,947 | ERROR    | exchange.kraken_client | Failed to place limit sell for SOL/USD: kraken {"error":["EOrder:Insufficient funds"]}
+2026-03-05 10:53:57,948 | INFO     | risk.risk_manager | Position opened | SOL/USD | entry=89.7500 | size=0.785018 | SL=89.5300 | TP=91.4800
+2026-03-05 10:56:08,670 | INFO     | bot | STOP-LOSS hit for SOL/USD at 89.5300
+2026-03-05 10:56:08,671 | INFO     | risk.risk_manager | Position closed | SOL/USD | exit=89.5300 | PnL=-0.17 USD | Net=-0.54 USD
+2026-03-05 11:09:36,642 | INFO     | bot | Skipping BTC/USD/scalping — R/R 1.46 below minimum 1.5
+2026-03-05 11:10:50,021 | INFO     | bot | Signal | BUY | BTC/USD | scalping | entry=70883.6000 SL=70529.1820 TP=71434.7250 R/R=1.56
+2026-03-05 11:10:52,788 | INFO     | risk.risk_manager | Position size capped at 0.000992 BTC/USD (MAX_POSITION_PCT=15%)
+2026-03-05 11:10:52,961 | INFO     | exchange.kraken_client | Market BUY placed | BTC/USD | amount=0.000992 | id=OHKTGV-RVKEN-X6RU2B
+2026-03-05 11:10:55,112 | INFO     | exchange.kraken_client | Stop-loss placed | SELL BTC/USD | amount=0.000992 | trigger=70529.2000 | id=OWWXOO-I5EHO-TB5JGR
+2026-03-05 11:10:55,243 | ERROR    | exchange.kraken_client | Failed to place limit sell for BTC/USD: kraken {"error":["EOrder:Insufficient funds"]}
+2026-03-05 11:10:55,244 | INFO     | risk.risk_manager | Position opened | BTC/USD | entry=70883.6000 | size=0.000992 | SL=70529.2000 | TP=71434.7000
+2026-03-05 11:10:56,650 | INFO     | bot | Signal | BUY | ETH/USD | scalping | entry=2061.0900 SL=2050.7845 TP=2079.6370 R/R=1.80
+2026-03-05 11:10:59,456 | INFO     | risk.risk_manager | Position size capped at 0.029036 ETH/USD (MAX_POSITION_PCT=15%)
+2026-03-05 11:10:59,801 | INFO     | exchange.kraken_client | Market BUY placed | ETH/USD | amount=0.029036 | id=ODM6WM-ZCXP4-R3PX6Q
+2026-03-05 11:11:01,946 | INFO     | exchange.kraken_client | Stop-loss placed | SELL ETH/USD | amount=0.029036 | trigger=2050.7800 | id=OQXJGM-ZUGRA-FDFGHM
+2026-03-05 11:11:02,088 | INFO     | exchange.kraken_client | Limit SELL placed | ETH/USD | amount=0.029036 | price=2079.6400 | id=OMS3DE-3FHFY-NKWGB7
+2026-03-05 11:11:02,089 | INFO     | risk.risk_manager | Position opened | ETH/USD | entry=2061.0900 | size=0.029036 | SL=2050.7800 | TP=2079.6400
+2026-03-05 11:12:09,156 | INFO     | bot | Signal | BUY | SOL/USD | scalping | entry=88.0100 SL=87.5700 TP=89.1830 R/R=2.67
+2026-03-05 11:12:12,140 | INFO     | risk.risk_manager | Position size capped at 0.578667 SOL/USD (MAX_POSITION_PCT=15%)
+2026-03-05 11:12:12,290 | INFO     | exchange.kraken_client | Market BUY placed | SOL/USD | amount=0.578667 | id=OQQH3K-6FTBB-G66LFA
+2026-03-05 11:12:14,424 | INFO     | exchange.kraken_client | Stop-loss placed | SELL SOL/USD | amount=0.578667 | trigger=87.5700 | id=ON3WJE-ZIJ5S-FLEKMF
+2026-03-05 11:12:14,565 | ERROR    | exchange.kraken_client | Failed to place limit sell for SOL/USD: kraken {"error":["EOrder:Insufficient funds"]}
+2026-03-05 11:12:14,565 | INFO     | risk.risk_manager | Position opened | SOL/USD | entry=88.0100 | size=0.578667 | SL=87.5700 | TP=89.1800
+2026-03-05 11:13:17,588 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 11:14:19,633 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 11:15:21,677 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 11:16:23,714 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 11:17:25,748 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 11:18:27,791 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 11:19:29,956 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 11:20:32,319 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 11:21:34,658 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 11:22:36,981 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 11:23:38,343 | INFO     | risk.risk_manager | Trailing stop activated for ETH/USD at 2072.2400 (60.1% toward TP)
+2026-03-05 11:23:38,347 | INFO     | risk.risk_manager | Trailing stop updated for ETH/USD: 2050.7800 -> 2055.6621 (highest=2072.2400)
+2026-03-05 11:23:38,884 | INFO     | exchange.kraken_client | Stop-loss placed | SELL ETH/USD | amount=0.029036 | trigger=2055.6600 | id=OSU473-5JGYO-I2LLF6
+2026-03-05 11:23:40,189 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 11:24:41,558 | INFO     | risk.risk_manager | Trailing stop updated for ETH/USD: 2055.6621 -> 2057.8842 (highest=2074.4800)
+2026-03-05 11:24:41,897 | INFO     | exchange.kraken_client | Stop-loss placed | SELL ETH/USD | amount=0.029036 | trigger=2057.8800 | id=O7ACBX-FQHHA-WVDYGL
+2026-03-05 11:24:43,040 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 11:25:44,145 | INFO     | risk.risk_manager | Trailing stop updated for ETH/USD: 2057.8842 -> 2058.8365 (highest=2075.4400)
+2026-03-05 11:25:44,465 | INFO     | exchange.kraken_client | Stop-loss placed | SELL ETH/USD | amount=0.029036 | trigger=2058.8400 | id=OTIJUI-PJFIY-66OJH6
+2026-03-05 11:25:45,572 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 11:26:47,978 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 11:27:49,015 | INFO     | risk.risk_manager | Trailing stop updated for ETH/USD: 2058.8365 -> 2059.3126 (highest=2075.9200)
+2026-03-05 11:27:49,347 | INFO     | exchange.kraken_client | Stop-loss placed | SELL ETH/USD | amount=0.029036 | trigger=2059.3100 | id=OGRIGA-ZUXBH-H7LMBW
+2026-03-05 11:27:50,231 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 11:28:52,549 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 11:29:54,643 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 11:30:56,743 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 11:31:58,105 | INFO     | risk.risk_manager | Trailing stop updated for ETH/USD: 2059.3126 -> 2061.3264 (highest=2077.9500)
+2026-03-05 11:31:58,472 | INFO     | exchange.kraken_client | Stop-loss placed | SELL ETH/USD | amount=0.029036 | trigger=2061.3300 | id=OBSUP4-LZPSJ-PKMVHM
+2026-03-05 11:31:59,446 | INFO     | risk.risk_manager | Trailing stop activated for SOL/USD at 88.7100 (59.8% toward TP)
+2026-03-05 11:31:59,447 | INFO     | risk.risk_manager | Trailing stop updated for SOL/USD: 87.5700 -> 88.0003 (highest=88.7100)
+2026-03-05 11:31:59,759 | INFO     | exchange.kraken_client | Stop-loss placed | SELL SOL/USD | amount=0.578667 | trigger=88.0000 | id=OZ52DC-J7I5U-QKJW3U
+2026-03-05 11:32:00,794 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 11:33:00,853 | INFO     | risk.risk_manager | Trailing stop activated for BTC/USD at 71218.8000 (60.8% toward TP)
+2026-03-05 11:33:00,854 | INFO     | risk.risk_manager | Trailing stop updated for BTC/USD: 70529.2000 -> 70649.0496 (highest=71218.8000)
+2026-03-05 11:33:01,196 | INFO     | exchange.kraken_client | Stop-loss placed | SELL BTC/USD | amount=0.000992 | trigger=70649.0000 | id=OISUFP-GWGAJ-N6Q6GW
+2026-03-05 11:33:02,193 | INFO     | risk.risk_manager | Trailing stop updated for ETH/USD: 2061.3264 -> 2062.1498 (highest=2078.7800)
+2026-03-05 11:33:02,460 | INFO     | exchange.kraken_client | Stop-loss placed | SELL ETH/USD | amount=0.029036 | trigger=2062.1500 | id=O27S7U-FUZ2O-O6RXDC
+2026-03-05 11:33:03,496 | INFO     | risk.risk_manager | Trailing stop updated for SOL/USD: 88.0003 -> 88.0102 (highest=88.7200)
+2026-03-05 11:33:03,775 | INFO     | exchange.kraken_client | Stop-loss placed | SELL SOL/USD | amount=0.578667 | trigger=88.0100 | id=OXPMPE-KCSMQ-7H4CVQ
+2026-03-05 11:33:04,661 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 11:34:05,700 | INFO     | risk.risk_manager | Trailing stop updated for ETH/USD: 2062.1498 -> 2062.6755 (highest=2079.3100)
+2026-03-05 11:34:06,100 | INFO     | exchange.kraken_client | Stop-loss placed | SELL ETH/USD | amount=0.029036 | trigger=2062.6800 | id=ONYXDM-27H24-TMASX2
+2026-03-05 11:34:07,306 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 11:35:08,342 | INFO     | risk.risk_manager | Trailing stop updated for ETH/USD: 2062.6755 -> 2063.2112 (highest=2079.8500)
+2026-03-05 11:35:08,667 | INFO     | exchange.kraken_client | Stop-loss placed | SELL ETH/USD | amount=0.029036 | trigger=2063.2100 | id=OPGSBW-H3XXS-SAQBJW
+2026-03-05 11:35:09,596 | INFO     | bot | TAKE-PROFIT hit for ETH/USD at 2079.6400
+2026-03-05 11:35:09,740 | INFO     | risk.risk_manager | Position closed | ETH/USD | exit=2079.6400 | PnL=0.54 USD | Net=0.23 USD
+2026-03-05 11:36:15,688 | INFO     | risk.risk_manager | Trailing stop updated for BTC/USD: 70649.0496 -> 70660.2592 (highest=71230.1000)
+2026-03-05 11:36:15,972 | INFO     | exchange.kraken_client | Stop-loss placed | SELL BTC/USD | amount=0.000992 | trigger=70660.3000 | id=O5T7RL-XRUZ5-BUEFFF
+2026-03-05 11:36:16,965 | INFO     | risk.risk_manager | Trailing stop updated for SOL/USD: 88.0102 -> 88.0202 (highest=88.7300)
+2026-03-05 11:36:17,290 | INFO     | exchange.kraken_client | Stop-loss placed | SELL SOL/USD | amount=0.578667 | trigger=88.0200 | id=O2MOW7-OV2AH-H5RMMO
+2026-03-05 11:37:22,115 | INFO     | risk.risk_manager | Trailing stop updated for BTC/USD: 70660.2592 -> 70791.2032 (highest=71362.1000)
+2026-03-05 11:37:22,412 | INFO     | exchange.kraken_client | Stop-loss placed | SELL BTC/USD | amount=0.000992 | trigger=70791.2000 | id=O4WQW5-ZCLYQ-R7HOGT
+2026-03-05 11:37:23,324 | INFO     | risk.risk_manager | Trailing stop updated for SOL/USD: 88.0202 -> 88.1888 (highest=88.9000)
+2026-03-05 11:37:23,614 | INFO     | exchange.kraken_client | Stop-loss placed | SELL SOL/USD | amount=0.578667 | trigger=88.1900 | id=OBJOGM-ROKY5-FT2D4V
+2026-03-05 11:39:34,411 | INFO     | risk.risk_manager | Trailing stop updated for BTC/USD: 70791.2032 -> 70833.6608 (highest=71404.9000)
+2026-03-05 11:39:34,683 | INFO     | exchange.kraken_client | Stop-loss placed | SELL BTC/USD | amount=0.000992 | trigger=70833.7000 | id=OS3MP2-K6C2O-V7K77U
+2026-03-05 11:39:35,868 | INFO     | risk.risk_manager | Trailing stop updated for SOL/USD: 88.1888 -> 88.1987 (highest=88.9100)
+2026-03-05 11:39:36,197 | INFO     | exchange.kraken_client | Stop-loss placed | SELL SOL/USD | amount=0.578667 | trigger=88.2000 | id=O3A4KG-BF3IF-SLTMSY
+2026-03-05 11:40:41,055 | INFO     | risk.risk_manager | Trailing stop updated for BTC/USD: 70833.6608 -> 71010.3360 (highest=71583.0000)
+2026-03-05 11:40:41,328 | INFO     | exchange.kraken_client | Stop-loss placed | SELL BTC/USD | amount=0.000992 | trigger=71010.3000 | id=OVL3JA-VNX5T-X5J6XH
+2026-03-05 11:40:42,270 | INFO     | bot | TAKE-PROFIT hit for BTC/USD at 71434.7000
+2026-03-05 11:40:42,413 | INFO     | risk.risk_manager | Position closed | BTC/USD | exit=71434.7000 | PnL=0.55 USD | Net=0.18 USD
+2026-03-05 11:40:43,470 | INFO     | risk.risk_manager | Trailing stop updated for SOL/USD: 88.1987 -> 88.3971 (highest=89.1100)
+2026-03-05 11:40:43,745 | INFO     | exchange.kraken_client | Stop-loss placed | SELL SOL/USD | amount=0.578667 | trigger=88.4000 | id=O3D7PU-2ROR5-LS3V6X
+2026-03-05 12:00:43,099 | INFO     | bot | Daily summary sent.
+2026-03-05 12:04:02,654 | INFO     | risk.risk_manager | Trailing stop updated for SOL/USD: 88.3971 -> 88.6749 (highest=89.3900)
+2026-03-05 12:04:03,058 | INFO     | exchange.kraken_client | Stop-loss placed | SELL SOL/USD | amount=0.578667 | trigger=88.6700 | id=OZEQAO-H37XH-WA6AWH
+2026-03-05 12:04:03,997 | INFO     | bot | TAKE-PROFIT hit for SOL/USD at 89.1800
+2026-03-05 12:04:04,131 | INFO     | risk.risk_manager | Position closed | SOL/USD | exit=89.1800 | PnL=0.68 USD | Net=0.41 USD
+2026-03-05 12:45:42,157 | INFO     | bot | Signal | BUY | BTC/USD | range_trading | entry=70833.7000 SL=70630.9051 TP=71665.3333 R/R=4.10
+2026-03-05 12:45:45,146 | INFO     | risk.risk_manager | Position size capped at 0.000738 BTC/USD (MAX_POSITION_PCT=15%)
+2026-03-05 12:45:45,306 | INFO     | exchange.kraken_client | Market BUY placed | BTC/USD | amount=0.000738 | id=OFP2SP-2VOBE-FBN7FS
+2026-03-05 12:45:47,474 | INFO     | exchange.kraken_client | Stop-loss placed | SELL BTC/USD | amount=0.000738 | trigger=70630.9000 | id=OPEZF4-LOAKK-2NKLJU
+2026-03-05 12:45:47,625 | INFO     | exchange.kraken_client | Limit SELL placed | BTC/USD | amount=0.000738 | price=71665.3000 | id=OJW5LO-ESWMG-FIZMSD
+2026-03-05 12:45:47,629 | INFO     | risk.risk_manager | Position opened | BTC/USD | entry=70833.7000 | size=0.000738 | SL=70630.9000 | TP=71665.3000
+2026-03-05 13:00:58,060 | INFO     | bot | Signal | BUY | ETH/USD | range_trading | entry=2060.1800 SL=2051.4788 TP=2089.7067 R/R=3.39
+2026-03-05 13:01:00,963 | INFO     | risk.risk_manager | Position size capped at 0.025335 ETH/USD (MAX_POSITION_PCT=15%)
+2026-03-05 13:01:01,292 | INFO     | exchange.kraken_client | Market BUY placed | ETH/USD | amount=0.025334 | id=OGYFI6-6JD7T-7VKJAY
+2026-03-05 13:01:03,475 | INFO     | exchange.kraken_client | Stop-loss placed | SELL ETH/USD | amount=0.025334 | trigger=2051.4800 | id=O7O3SC-PIBUA-NDL5KR
+2026-03-05 13:01:03,643 | INFO     | exchange.kraken_client | Limit SELL placed | ETH/USD | amount=0.025334 | price=2089.7100 | id=OV4AKF-M7M2J-V4I5O2
+2026-03-05 13:01:03,643 | INFO     | risk.risk_manager | Position opened | ETH/USD | entry=2060.1800 | size=0.025334 | SL=2051.4800 | TP=2089.7100
+2026-03-05 13:35:09,694 | INFO     | risk.risk_manager | Trailing stop activated for ETH/USD at 2076.0800 (53.8% toward TP)
+2026-03-05 13:35:09,694 | INFO     | risk.risk_manager | Trailing stop updated for ETH/USD: 2051.4800 -> 2059.4714 (highest=2076.0800)
+2026-03-05 13:35:10,191 | INFO     | exchange.kraken_client | Stop-loss placed | SELL ETH/USD | amount=0.025334 | trigger=2059.4700 | id=O6EWHK-SKYXX-IZS7IH
+2026-03-05 13:42:51,520 | INFO     | risk.risk_manager | Trailing stop updated for ETH/USD: 2059.4714 -> 2060.4038 (highest=2077.0200)
+2026-03-05 13:42:52,034 | INFO     | exchange.kraken_client | Stop-loss placed | SELL ETH/USD | amount=0.025334 | trigger=2060.4000 | id=OGHKZG-WWAQG-HMCLUN
+2026-03-05 13:58:15,152 | INFO     | risk.risk_manager | Trailing stop updated for ETH/USD: 2060.4038 -> 2060.8800 (highest=2077.5000)
+2026-03-05 13:58:15,623 | INFO     | exchange.kraken_client | Stop-loss placed | SELL ETH/USD | amount=0.025334 | trigger=2060.8800 | id=O5K4XW-L5DY2-C6BXGN
+2026-03-05 14:01:33,515 | INFO     | risk.risk_manager | Trailing stop updated for ETH/USD: 2060.8800 -> 2063.4691 (highest=2080.1100)
+2026-03-05 14:01:33,912 | INFO     | exchange.kraken_client | Stop-loss placed | SELL ETH/USD | amount=0.025334 | trigger=2063.4700 | id=OKBPVD-UNSLJ-5EAPUT
+2026-03-05 14:02:39,768 | INFO     | risk.risk_manager | Trailing stop updated for ETH/USD: 2063.4691 -> 2066.8221 (highest=2083.4900)
+2026-03-05 14:02:40,335 | INFO     | exchange.kraken_client | Stop-loss placed | SELL ETH/USD | amount=0.025334 | trigger=2066.8200 | id=OOTBZT-YRHJE-DFPODE
+2026-03-05 14:08:09,118 | INFO     | risk.risk_manager | Trailing stop activated for BTC/USD at 71251.5000 (50.2% toward TP)
+2026-03-05 14:08:09,119 | INFO     | risk.risk_manager | Trailing stop updated for BTC/USD: 70630.9000 -> 70681.4880 (highest=71251.5000)
+2026-03-05 14:08:09,456 | ERROR    | exchange.kraken_client | Failed to cancel order OPEZF4-LOAKK-2NKLJU: kraken cancelOrder() error {"error":["EOrder:Unknown order"]}
+2026-03-05 14:08:09,672 | ERROR    | exchange.kraken_client | Failed to place stop-loss for BTC/USD: kraken {"error":["EOrder:Insufficient funds"]}
+2026-03-05 14:11:27,495 | INFO     | risk.risk_manager | Trailing stop updated for BTC/USD: 70681.4880 -> 70696.0704 (highest=71266.2000)
+2026-03-05 14:11:27,745 | ERROR    | exchange.kraken_client | Failed to place stop-loss for BTC/USD: kraken {"error":["EOrder:Insufficient funds"]}
+2026-03-05 14:13:39,519 | INFO     | risk.risk_manager | Trailing stop updated for BTC/USD: 70696.0704 -> 70705.4944 (highest=71275.7000)
+2026-03-05 14:13:39,682 | ERROR    | exchange.kraken_client | Failed to place stop-loss for BTC/USD: kraken {"error":["EOrder:Insufficient funds"]}
+2026-03-05 14:14:45,695 | INFO     | risk.risk_manager | Trailing stop updated for BTC/USD: 70705.4944 -> 70765.6096 (highest=71336.3000)
+2026-03-05 14:14:45,877 | ERROR    | exchange.kraken_client | Failed to place stop-loss for BTC/USD: kraken {"error":["EOrder:Insufficient funds"]}
+2026-03-05 14:14:46,867 | INFO     | risk.risk_manager | Trailing stop updated for ETH/USD: 2066.8221 -> 2070.5619 (highest=2087.2600)
+2026-03-05 14:14:47,233 | INFO     | exchange.kraken_client | Stop-loss placed | SELL ETH/USD | amount=0.025334 | trigger=2070.5600 | id=OZ4OIP-JAZVO-AUAAKU
+2026-03-05 14:20:15,942 | INFO     | risk.risk_manager | Trailing stop updated for BTC/USD: 70765.6096 -> 70781.9776 (highest=71352.8000)
+2026-03-05 14:20:16,151 | ERROR    | exchange.kraken_client | Failed to place stop-loss for BTC/USD: kraken {"error":["EOrder:Insufficient funds"]}
+2026-03-05 14:20:16,996 | INFO     | risk.risk_manager | Trailing stop updated for ETH/USD: 2070.5619 -> 2071.8416 (highest=2088.5500)
+2026-03-05 14:20:17,300 | INFO     | exchange.kraken_client | Stop-loss placed | SELL ETH/USD | amount=0.025334 | trigger=2071.8400 | id=O7WMX6-XHETY-E3ZUUZ
+2026-03-05 15:19:37,349 | INFO     | risk.risk_manager | Trailing stop updated for ETH/USD: 2071.8416 -> 2071.9110 (highest=2088.6200)
+2026-03-05 15:19:37,539 | ERROR    | exchange.kraken_client | Failed to cancel order O7WMX6-XHETY-E3ZUUZ: kraken cancelOrder() error {"error":["EOrder:Unknown order"]}
+2026-03-05 15:19:37,673 | ERROR    | exchange.kraken_client | Failed to place stop-loss for ETH/USD: kraken {"error":["EOrder:Insufficient funds"]}
+2026-03-05 15:22:55,612 | INFO     | risk.risk_manager | Trailing stop updated for ETH/USD: 2071.9110 -> 2072.7443 (highest=2089.4600)
+2026-03-05 15:22:55,765 | ERROR    | exchange.kraken_client | Failed to place stop-loss for ETH/USD: kraken {"error":["EOrder:Insufficient funds"]}
+2026-03-05 15:24:01,668 | INFO     | risk.risk_manager | Trailing stop updated for ETH/USD: 2072.7443 -> 2073.4685 (highest=2090.1900)
+2026-03-05 15:24:01,846 | ERROR    | exchange.kraken_client | Failed to place stop-loss for ETH/USD: kraken {"error":["EOrder:Insufficient funds"]}
+2026-03-05 15:24:01,847 | INFO     | bot | TAKE-PROFIT hit for ETH/USD at 2089.7100
+2026-03-05 15:24:01,848 | INFO     | risk.risk_manager | Position closed | ETH/USD | exit=2089.7100 | PnL=0.75 USD | Net=0.47 USD
+2026-03-05 16:17:28,258 | INFO     | risk.risk_manager | Trailing stop updated for BTC/USD: 70781.9776 -> 70832.6688 (highest=71403.9000)
+2026-03-05 16:17:28,403 | ERROR    | exchange.kraken_client | Failed to place stop-loss for BTC/USD: kraken {"error":["EOrder:Insufficient funds"]}
+2026-03-05 16:18:37,985 | INFO     | risk.risk_manager | Trailing stop updated for BTC/USD: 70832.6688 -> 70894.3712 (highest=71466.1000)
+2026-03-05 16:18:38,219 | ERROR    | exchange.kraken_client | Failed to place stop-loss for BTC/USD: kraken {"error":["EOrder:Insufficient funds"]}
+2026-03-05 16:20:57,329 | INFO     | risk.risk_manager | Trailing stop updated for BTC/USD: 70894.3712 -> 70952.7008 (highest=71524.9000)
+2026-03-05 16:20:57,466 | ERROR    | exchange.kraken_client | Failed to place stop-loss for BTC/USD: kraken {"error":["EOrder:Insufficient funds"]}
+2026-03-05 16:30:15,659 | INFO     | risk.risk_manager | Trailing stop updated for BTC/USD: 70952.7008 -> 70958.9504 (highest=71531.2000)
+2026-03-05 16:30:15,797 | ERROR    | exchange.kraken_client | Failed to place stop-loss for BTC/USD: kraken {"error":["EOrder:Insufficient funds"]}
+2026-03-05 16:31:25,466 | INFO     | risk.risk_manager | Trailing stop updated for BTC/USD: 70958.9504 -> 70982.5600 (highest=71555.0000)
+2026-03-05 16:31:25,605 | ERROR    | exchange.kraken_client | Failed to place stop-loss for BTC/USD: kraken {"error":["EOrder:Insufficient funds"]}
+2026-03-05 16:36:05,827 | INFO     | bot | Skipping ETH/USD/scalping — R/R 0.90 below minimum 1.5
+2026-03-05 16:39:34,942 | INFO     | bot | Skipping ETH/USD/scalping — R/R 1.17 below minimum 1.5
+2026-03-05 18:33:28,457 | INFO     | bot | STOP-LOSS hit for BTC/USD at 70982.5600
+2026-03-05 18:33:28,596 | INFO     | risk.risk_manager | Position closed | BTC/USD | exit=70982.5600 | PnL=0.11 USD | Net=-0.16 USD
+2026-03-05 18:33:33,314 | INFO     | bot | Skipping BTC/USD/ma_trend — R/R 0.00 below minimum 1.5
+2026-03-05 18:34:43,277 | INFO     | bot | Skipping BTC/USD/scalping — R/R 0.65 below minimum 1.5
+2026-03-05 18:34:52,727 | INFO     | bot | Skipping SOL/USD/scalping — R/R 0.72 below minimum 1.5
+2026-03-05 18:35:56,527 | INFO     | bot | Skipping BTC/USD/scalping — R/R 0.57 below minimum 1.5
+2026-03-05 18:45:45,075 | INFO     | bot | Signal | BUY | BTC/USD | range_trading | entry=70930.7000 SL=70777.8052 TP=71501.6250 R/R=3.73
+2026-03-05 18:45:48,098 | INFO     | risk.risk_manager | Position size capped at 0.000846 BTC/USD (MAX_POSITION_PCT=15%)
+2026-03-05 18:45:48,253 | INFO     | exchange.kraken_client | Market BUY placed | BTC/USD | amount=0.000846 | id=O2OJUO-GNEB6-NACSSB
+2026-03-05 18:45:50,417 | INFO     | exchange.kraken_client | Stop-loss placed | SELL BTC/USD | amount=0.000846 | trigger=70777.8000 | id=O2LZF5-MSZQB-57F3YM
+2026-03-05 18:45:50,551 | INFO     | exchange.kraken_client | Limit SELL placed | BTC/USD | amount=0.000846 | price=71501.6000 | id=OUCYDU-BF6IX-EBNEFM
+2026-03-05 18:45:50,551 | INFO     | risk.risk_manager | Position opened | BTC/USD | entry=70930.7000 | size=0.000846 | SL=70777.8000 | TP=71501.6000
+2026-03-05 18:45:59,035 | INFO     | bot | Signal | BUY | SOL/USD | range_trading | entry=88.8300 SL=88.6407 TP=89.3429 R/R=2.71
+2026-03-05 18:46:02,110 | INFO     | risk.risk_manager | Position size capped at 0.574883 SOL/USD (MAX_POSITION_PCT=15%)
+2026-03-05 18:46:02,251 | INFO     | exchange.kraken_client | Market BUY placed | SOL/USD | amount=0.574883 | id=ONCQFX-MMFTJ-FZVWNU
+2026-03-05 18:46:04,407 | INFO     | exchange.kraken_client | Stop-loss placed | SELL SOL/USD | amount=0.574883 | trigger=88.6400 | id=OPHQOD-A5HFS-HZCTP3
+2026-03-05 18:46:04,557 | INFO     | exchange.kraken_client | Limit SELL placed | SOL/USD | amount=0.574883 | price=89.3400 | id=OYJC4T-4SAZN-BAVMLG
+2026-03-05 18:46:04,557 | INFO     | risk.risk_manager | Position opened | SOL/USD | entry=88.8300 | size=0.574883 | SL=88.6400 | TP=89.3400
+2026-03-05 18:58:07,363 | INFO     | bot | Skipping ETH/USD/scalping — R/R 0.34 below minimum 1.5
+2026-03-05 19:00:21,655 | INFO     | bot | Signal | BUY | ETH/USD | range_trading | entry=2073.2600 SL=2068.5213 TP=2089.1340 R/R=3.35
+2026-03-05 19:00:24,569 | INFO     | risk.risk_manager | Position size capped at 0.024594 ETH/USD (MAX_POSITION_PCT=15%)
+2026-03-05 19:00:24,703 | INFO     | exchange.kraken_client | Market BUY placed | ETH/USD | amount=0.024594 | id=O23JQU-T2CRM-QSV7NA
+2026-03-05 19:00:26,843 | INFO     | exchange.kraken_client | Stop-loss placed | SELL ETH/USD | amount=0.024594 | trigger=2068.5200 | id=O7XMA5-4B32C-OAOTBH
+2026-03-05 19:00:27,038 | ERROR    | exchange.kraken_client | Failed to place limit sell for ETH/USD: kraken {"error":["EOrder:Insufficient funds"]}
+2026-03-05 19:00:27,040 | INFO     | risk.risk_manager | Position opened | ETH/USD | entry=2073.2600 | size=0.024594 | SL=2068.5200 | TP=2089.1300
+2026-03-05 19:01:30,335 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:02:32,675 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:03:34,721 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:04:37,024 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:05:39,351 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:06:41,665 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:07:44,033 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:08:46,128 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:09:48,474 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:10:50,818 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:11:53,080 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:12:55,162 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:13:57,206 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:14:59,243 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:16:01,572 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:17:03,957 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:18:06,277 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:19:08,378 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:20:10,517 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:21:12,871 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:22:14,910 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:23:16,966 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:24:19,008 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:25:21,379 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:26:23,694 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:27:25,742 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:28:27,854 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:29:29,917 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:30:32,011 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:31:34,099 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:32:36,145 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:33:38,200 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:34:40,537 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:35:42,580 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:36:44,776 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:37:46,875 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:38:48,992 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:39:51,031 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:40:53,146 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:41:55,464 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:42:57,504 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:43:59,546 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:45:01,600 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:46:03,643 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:47:05,951 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:48:07,994 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:49:10,296 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:50:12,632 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:51:14,780 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:52:16,819 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:53:18,856 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:54:20,911 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:55:22,953 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:56:24,992 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:57:27,030 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:58:29,116 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 19:59:31,159 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 20:00:33,204 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 20:01:35,241 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 20:02:37,554 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 20:03:39,615 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 20:04:41,667 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 20:05:43,710 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 20:06:45,768 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 20:07:47,858 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 20:08:50,267 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 20:09:52,408 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 20:10:54,558 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 20:11:56,700 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 20:12:59,038 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 20:14:01,101 | INFO     | risk.risk_manager | Max open positions (3) reached.
+2026-03-05 20:15:02,521 | INFO     | bot | STOP-LOSS hit for SOL/USD at 88.6400
+2026-03-05 20:15:02,659 | INFO     | risk.risk_manager | Position closed | SOL/USD | exit=88.6400 | PnL=-0.11 USD | Net=-0.37 USD
+2026-03-05 20:26:03,292 | INFO     | bot | STOP-LOSS hit for BTC/USD at 70777.8000
+2026-03-05 20:26:03,448 | INFO     | risk.risk_manager | Position closed | BTC/USD | exit=70777.8000 | PnL=-0.13 USD | Net=-0.44 USD
+2026-03-05 20:27:14,850 | INFO     | bot | STOP-LOSS hit for ETH/USD at 2068.5200
+2026-03-05 20:27:15,022 | ERROR    | exchange.kraken_client | Failed to cancel order OV4AKF-M7M2J-V4I5O2: kraken cancelOrder() error {"error":["EOrder:Unknown order"]}
+2026-03-05 20:27:15,022 | INFO     | risk.risk_manager | Position closed | ETH/USD | exit=2068.5200 | PnL=-0.12 USD | Net=-0.38 USD
+2026-03-05 20:27:17,023 | INFO     | bot | Skipping BTC/USD/scalping — R/R 0.81 below minimum 1.5
+2026-03-05 20:27:21,648 | INFO     | bot | Skipping ETH/USD/scalping — R/R 0.87 below minimum 1.5
+2026-03-05 20:27:25,121 | INFO     | bot | Skipping ETH/USD/ma_trend — R/R 0.00 below minimum 1.5
+2026-03-05 20:28:34,813 | INFO     | bot | Skipping ETH/USD/scalping — R/R 0.89 below minimum 1.5
+2026-03-05 20:28:42,100 | INFO     | bot | Signal | BUY | SOL/USD | range_trading | entry=88.0900 SL=87.7741 TP=89.2644 R/R=3.72
+2026-03-05 20:28:45,080 | INFO     | risk.risk_manager | Position size capped at 0.678456 SOL/USD (MAX_POSITION_PCT=15%)
+2026-03-05 20:28:45,393 | INFO     | exchange.kraken_client | Market BUY placed | SOL/USD | amount=0.678456 | id=OFRVK6-GAQNY-VFREUF
+2026-03-05 20:28:47,535 | INFO     | exchange.kraken_client | Stop-loss placed | SELL SOL/USD | amount=0.678456 | trigger=87.7700 | id=OQVWL6-7TRO3-JAR544
+2026-03-05 20:28:47,711 | INFO     | exchange.kraken_client | Limit SELL placed | SOL/USD | amount=0.678456 | price=89.2600 | id=OVA7KM-IRLTK-3TNOQE
+2026-03-05 20:28:47,711 | INFO     | risk.risk_manager | Position opened | SOL/USD | entry=88.0900 | size=0.678456 | SL=87.7700 | TP=89.2600
+2026-03-05 20:32:08,361 | INFO     | risk.risk_manager | Trailing stop activated for SOL/USD at 88.8600 (65.8% toward TP)
+2026-03-05 20:32:08,362 | INFO     | risk.risk_manager | Trailing stop updated for SOL/USD: 87.7700 -> 88.1491 (highest=88.8600)
+2026-03-05 20:32:08,636 | INFO     | exchange.kraken_client | Stop-loss placed | SELL SOL/USD | amount=0.678456 | trigger=88.1500 | id=OKE67V-VKCRN-XSBEYW
+2026-03-05 20:34:28,523 | INFO     | risk.risk_manager | Trailing stop updated for SOL/USD: 88.1491 -> 88.2086 (highest=88.9200)
+2026-03-05 20:34:28,849 | INFO     | exchange.kraken_client | Stop-loss placed | SELL SOL/USD | amount=0.678456 | trigger=88.2100 | id=OT6UPG-A6MJJ-XTGAXN
+2026-03-05 20:35:39,091 | INFO     | risk.risk_manager | Trailing stop updated for SOL/USD: 88.2086 -> 88.4368 (highest=89.1500)
+2026-03-05 20:35:39,436 | INFO     | exchange.kraken_client | Stop-loss placed | SELL SOL/USD | amount=0.678456 | trigger=88.4400 | id=OB5YR4-PUQ4H-XWSZVC
+2026-03-05 20:35:43,528 | INFO     | bot | Skipping BTC/USD/range_trading — R/R 0.25 below minimum 1.5
+2026-03-05 20:41:28,742 | INFO     | risk.risk_manager | Trailing stop updated for SOL/USD: 88.4368 -> 88.4765 (highest=89.1900)
+2026-03-05 20:41:29,244 | INFO     | exchange.kraken_client | Stop-loss placed | SELL SOL/USD | amount=0.678456 | trigger=88.4800 | id=O3X52F-JS7P7-BVYSCT
+2026-03-05 20:42:39,523 | INFO     | risk.risk_manager | Trailing stop updated for SOL/USD: 88.4765 -> 88.5162 (highest=89.2300)
+2026-03-05 20:42:40,062 | INFO     | exchange.kraken_client | Stop-loss placed | SELL SOL/USD | amount=0.678456 | trigger=88.5200 | id=O67E3Z-SDL4E-NYFIEW
+2026-03-05 21:11:43,127 | INFO     | bot | Bot initialised | pairs=['BTC/USD', 'ETH/USD', 'SOL/USD'] | strategies=['scalping', 'breakout', 'range_trading', 'ma_trend'] | dry_run=False
+2026-03-05 21:11:43,128 | INFO     | bot | Reconciling open positions with Kraken...
+2026-03-05 21:11:46,247 | WARNING  | bot | Found a limit sell for SOL/USD but no stop-loss order — skipping (review manually; this position has no downside protection).
+2026-03-05 21:11:46,247 | INFO     | bot | No positions to recover.
+2026-03-05 21:11:47,531 | INFO     | bot | Bot started. Poll interval: 60s
+2026-03-05 21:22:57,131 | INFO     | bot | Skipping SOL/USD/scalping — R/R 1.33 below minimum 1.5
+2026-03-05 22:14:12,066 | INFO     | bot | Skipping ETH/USD/scalping — R/R 0.59 below minimum 1.5
+2026-03-05 23:31:21,713 | INFO     | bot | Skipping SOL/USD/range_trading — R/R 0.60 below minimum 1.5
+2026-03-05 23:33:36,608 | INFO     | bot | Skipping BTC/USD/scalping — R/R 0.18 below minimum 1.5
+2026-03-05 23:33:43,592 | INFO     | bot | Signal | BUY | ETH/USD | range_trading | entry=2075.5700 SL=2071.3346 TP=2088.5357 R/R=3.06
+2026-03-05 23:33:46,603 | INFO     | risk.risk_manager | Position size capped at 0.033103 ETH/USD (MAX_POSITION_PCT=15%)
+2026-03-05 23:33:46,752 | INFO     | exchange.kraken_client | Market BUY placed | ETH/USD | amount=0.033103 | id=O7FURD-7ZJO6-KELXPD
+2026-03-05 23:33:51,040 | INFO     | exchange.kraken_client | Stop-loss placed | SELL ETH/USD | amount=0.033103 | trigger=2071.3300 | id=OG6LIX-YMDGS-RMJYQR
+2026-03-05 23:33:51,180 | ERROR    | exchange.kraken_client | Failed to place limit sell for ETH/USD: kraken {"error":["EOrder:Insufficient funds"]}
+2026-03-05 23:33:51,181 | INFO     | risk.risk_manager | Position opened | ETH/USD | entry=2075.5700 | size=0.033103 | SL=2071.3300 | TP=2088.5400
+2026-03-05 23:39:35,299 | INFO     | bot | STOP-LOSS hit for ETH/USD at 2071.3300
+2026-03-05 23:39:35,302 | INFO     | risk.risk_manager | Position closed | ETH/USD | exit=2071.3300 | PnL=-0.14 USD | Net=-0.50 USD
+2026-03-05 23:52:02,366 | INFO     | bot | Signal | BUY | SOL/USD | range_trading | entry=88.1800 SL=87.9463 TP=88.6250 R/R=1.90
+2026-03-05 23:52:05,355 | INFO     | risk.risk_manager | Position size capped at 0.946118 SOL/USD (MAX_POSITION_PCT=15%)
+2026-03-05 23:52:05,495 | INFO     | exchange.kraken_client | Market BUY placed | SOL/USD | amount=0.946118 | id=OHH7TL-ZCDWT-OMURUR
+2026-03-05 23:52:09,773 | INFO     | exchange.kraken_client | Stop-loss placed | SELL SOL/USD | amount=0.945181 | trigger=87.9500 | id=O47FKF-LKAR6-D6W6L6
+2026-03-05 23:52:09,907 | ERROR    | exchange.kraken_client | Failed to place limit sell for SOL/USD: kraken {"error":["EOrder:Insufficient funds"]}
+2026-03-05 23:52:09,907 | INFO     | risk.risk_manager | Position opened | SOL/USD | entry=88.1800 | size=0.945181 | SL=87.9500 | TP=88.6300
